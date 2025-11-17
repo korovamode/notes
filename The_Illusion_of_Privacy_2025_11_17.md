@@ -3,6 +3,14 @@
 
 Korovamode | November 17, 2025
 
+
+
+**Abstract:** This essay argues that privacy has already been functionally eliminated by the modern data-extraction infrastructure operated by Big Tech platforms. Surveillance is now environmental rather than episodic, fueled by ubiquitous behavioral tracking and predictive modeling. These systems shape user behavior, exploit emotional vulnerability, and create the structural conditions for platform-based quasi-sovereignty. Drawing on surveillance studies, platform governance research, and philosophies of control, the essay situates the disappearance of privacy as a systemic and irreversible development.
+
+**Keywords:** surveillance capitalism, privacy, Big Tech, prediction, algorithmic governance, platform power, behavioral data, digital sovereignty
+
+---
+
 **Big Tech knows everything—and will use it.** We already live inside the system that makes this possible.
 
 ## **1. Privacy Is Already Gone**
@@ -114,3 +122,20 @@ There is no going back to a pre-digital era. The question now is not whether we 
 **The illusion of privacy protected us from discomfort. The reality forces us to confront power.**
 
 #korovamode
+
+
+## References
+
+Anderson, Benedict. *Imagined Communities.* Verso, 1983.  
+Arendt, Hannah. *The Origins of Totalitarianism.* Harcourt, 1951.  
+Balkin, Jack. “Information Fiduciaries and the First Amendment.” *UC Davis Law Review*, 2016.  
+Cohen, Julie. *Between Truth and Power.* Oxford University Press, 2019.  
+Deleuze, Gilles. “Postscript on the Societies of Control.” *October*, 1992.  
+Gandy, Oscar. *The Panoptic Sort.* Westview Press, 1993.  
+Gillespie, Tarleton. *Custodians of the Internet.* Yale University Press, 2018.  
+Han, Byung-Chul. *Psychopolitics.* Verso, 2017.  
+Lyon, David. *Surveillance Studies.* Polity, 2007.  
+Nissenbaum, Helen. *Privacy in Context.* Stanford University Press, 2009.  
+Noble, Safiya. *Algorithms of Oppression.* NYU Press, 2018.  
+Pasquale, Frank. *The Black Box Society.* Harvard University Press, 2015.  
+Zuboff, Shoshana. *The Age of Surveillance Capitalism.* PublicAffairs, 2019.
