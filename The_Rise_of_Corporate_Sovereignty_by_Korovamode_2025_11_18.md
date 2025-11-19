@@ -263,7 +263,6 @@ The rise of corporate sovereignty marks a fundamental shift in how power is orga
 28. David Runciman, *How Democracy Ends* (Profile Books, 2018).  
 29. Saskia Sassen, *Territory, Authority, Rights: From Medieval to Global Assemblages* (Princeton University Press, 2006).  
 30. Philip G. Cerny, “The Competition State and the Restructuring of the Global Political Economy,” *International Organization* 51, no. 1 (1997).  
-31. [Additional references as needed]
 
 
 ---
@@ -327,4 +326,5 @@ U.S. Federal Reserve. 2023. “Corporate Cash Holdings in the U.S. Economy.” *
 Washington Post. Zakrzewski, Cat. 2022. “Big Tech’s Record Lobbying Spending Intensifies Policy Battles.” *The Washington Post*.
 
 Zuboff, Shoshana. 2019. *The Age of Surveillance Capitalism*. New York: PublicAffairs.
+
 
