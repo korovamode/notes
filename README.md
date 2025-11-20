@@ -1,4 +1,4 @@
-# 🐄 **Korovamode — Notes Repository**
+# 🐄 **Korovamode — Publication Repository**
 A curated collection of essays exploring AI, culture, power, meaning, and the evolving relationship between humans and intelligent systems.  
 
 
