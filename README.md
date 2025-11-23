@@ -4,22 +4,22 @@ A curated collection of essays exploring AI, culture, power, meaning, and the ev
 ## 🔗 Official Links
 
 **Substack**  
-https://korovamode.substack.com
+[https://korovamode.substack.com](https://korovamode.substack.com)
 
 **PhilPapers**  
-https://philpeople.org/profiles/korova-mode
+[https://philpeople.org/profiles/korova-mode](https://philpeople.org/profiles/korova-mode)
 
 **Zenodo**  
-https://zenodo.org/search?q=korovamode
+[https://zenodo.org/search?q=korovamode](https://zenodo.org/search?q=korovamode)
 
 **ORCiD**  
-https://orcid.org/0009-0004-1397-6608
+[https://orcid.org/0009-0004-1397-6608](https://orcid.org/0009-0004-1397-6608)
 
 **LinkedIn**  
-https://www.linkedin.com/in/korova-mode-879255397/
+[https://www.linkedin.com/in/korova-mode-879255397/](https://www.linkedin.com/in/korova-mode-879255397/)
 
 **Medium (français)**  
-https://medium.com/@korovamode
+[https://medium.com/@korovamode](https://medium.com/@korovamode)
 
 ## 📄 Publications
 
