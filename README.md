@@ -3,27 +3,27 @@ A curated collection of essays exploring AI, culture, power, meaning, and the ev
 
 ## 🔗 Official Links
 
-- **Substack**  
-  https://korovamode.substack.com
+**Substack**  
+https://korovamode.substack.com
 
-- **PhilPapers**  
-  https://philpeople.org/profiles/korova-mode
+**PhilPapers**  
+https://philpeople.org/profiles/korova-mode
 
-- **Zenodo**  
-  https://zenodo.org/search?q=korovamode
+**Zenodo**  
+https://zenodo.org/search?q=korovamode
 
-- **ORCiD**  
-  https://orcid.org/0009-0004-1397-6608
+**ORCiD**  
+https://orcid.org/0009-0004-1397-6608
 
-- **LinkedIn**  
-  https://www.linkedin.com/in/korova-mode-879255397/
+**LinkedIn**  
+https://www.linkedin.com/in/korova-mode-879255397/
 
-- **Medium (français)**  
-  https://medium.com/@korovamode
+**Medium (français)**  
+https://medium.com/@korovamode
 
-## **Articles**
+## 📄 Publications
 
-⭐ **The Rise of Corporate Sovereignty**  
+🏛️ **The Rise of Corporate Sovereignty**  
 A look at how Big Tech infrastructures now function like non-state sovereign powers shaping global governance.  
 [The_Rise_of_Corporate_Sovereignty_by_Korovamode_2025_11_18.md](https://github.com/korovamode/notes/blob/main/works/The_Rise_of_Corporate_Sovereignty_by_Korovamode_2025_11_18.md)
 
@@ -43,21 +43,21 @@ A study of how generative systems absorb and reshape human language, producing a
 How communication is shifting from human expression to algorithmic simulation, fragmenting shared reality into personalized worlds.  
 [The_Future_of_Communication_Descriptive_2025_10_31.md](https://github.com/korovamode/notes/blob/main/works/The_Future_of_Communication_Descriptive_2025_10_31.md)
 
-🧩 **The Global Interaction Field: A Hypothesis on Distributed Consciousness**  
+🧠 **The Global Interaction Field: A Hypothesis on Distributed Consciousness**  
 A framework describing the emerging global system of interconnected infrastructures as a self-regulating, proto-conscious network.  
 [The_Global_Interaction_Field_Descriptive_2025_10_28.md](https://github.com/korovamode/notes/blob/main/works/The_Global_Interaction_Field_Descriptive_2025_10_28.md)
 
 🔥 **The Coming Disillusionment: After Gen AI**  
 A narrative of how frictionless creation leads to saturation, fatigue, and a renewed cultural hunger for authenticity.  
-[The_Coming_Disillusionment_Descriptive_2025_10_21.md](https://github.com/korovamode/notes/blob/main/The_Coming_Disillusionment_Descriptive_2025_10_21.md)
+[The_Coming_Disillusionment_Descriptive_2025_10_21.md](https://github.com/korovamode/notes/blob/main/works/The_Coming_Disillusionment_Descriptive_2025_10_21.md)
 
 🔁 **The Model of Information Drift**  
 A model explaining how meaning mutates through recursive loops between data, models, culture, and cognition.  
-[Information_Drift_Descriptive_2025_10_21.md](https://github.com/korovamode/notes/blob/main/Information_Drift_Descriptive_2025_10_21.md)
+[Information_Drift_Descriptive_2025_10_21.md](https://github.com/korovamode/notes/blob/main/works/Information_Drift_Descriptive_2025_10_21.md)
 
 🏰 **Synthetic Trust and Technofeudalism**  
 An exploration of how algorithmic mediation creates synthetic trust and concentrates power in a new technofeudal order.  
-[Synthetic_Trust_and_Technofeudalism_Descriptive_2025_10_21.md](https://github.com/korovamode/notes/blob/main/Synthetic_Trust_and_Technofeudalism_Descriptive_2025_10_21.md)
+[Synthetic_Trust_and_Technofeudalism_Descriptive_2025_10_21.md](https://github.com/korovamode/notes/blob/main/works/Synthetic_Trust_and_Technofeudalism_Descriptive_2025_10_21.md)
 
 *Last updated: November 22, 2025*
 
