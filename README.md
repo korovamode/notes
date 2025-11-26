@@ -23,6 +23,10 @@ A curated collection of essays exploring AI, culture, power, meaning, and the ev
 
 ## 📄 Publications
 
+🎛️ **The New Machinery of Persuasion** 
+Generative AI, Influence Architecture, and the Quiet Steering of Thought
+[The_New_Machinery_of_Persuasion_by_Korovamode_2025_11_26.md](https://github.com/korovamode/notes/blob/main/works/The_New_Machinery_of_Persuasion_by_Korovamode_2025_11_26.md)
+
 🏛️ **The Rise of Corporate Sovereignty**  
 A look at how Big Tech infrastructures now function like non-state sovereign powers shaping global governance.  
 [The_Rise_of_Corporate_Sovereignty_by_Korovamode_2025_11_18.md](https://github.com/korovamode/notes/blob/main/works/The_Rise_of_Corporate_Sovereignty_by_Korovamode_2025_11_18.md)
