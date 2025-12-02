@@ -23,6 +23,11 @@ A curated collection of essays exploring AI, culture, power, meaning, and the ev
 
 ## 📄 Publications
 
+
+🧩 **The Architecture of the Post-Work Order: Power and Agency After the Economy Stops Needing People**
+[The_Architecture_of_the_Post_Work_Order_by_Korovamode_2025_12_01.md](https://github.com/korovamode/notes/blob/main/works/The_Architecture_of_the_Post_Work_Order_by_Korovamode_2025_12_01.md)
+
+
 🎛️ **The New Machinery of Persuasion** 
 Generative AI, Influence Architecture, and the Quiet Steering of Thought
 [The_New_Machinery_of_Persuasion_by_Korovamode_2025_11_26.md](https://github.com/korovamode/notes/blob/main/works/The_New_Machinery_of_Persuasion_by_Korovamode_2025_11_26.md)
