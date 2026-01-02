@@ -70,6 +70,6 @@ A model explaining how meaning mutates through recursive loops between data, mod
 An exploration of how algorithmic mediation creates synthetic trust and concentrates power in a new technofeudal order.  
 [Synthetic_Trust_and_Technofeudalism_Descriptive_2025_10_21.md](https://github.com/korovamode/notes/blob/main/works/Synthetic_Trust_and_Technofeudalism_Descriptive_2025_10_21.md)
 
-*Last updated: November 22, 2025*
+*Last updated: January 1, 2026*
 
 © Korovamode  
