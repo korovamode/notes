@@ -24,14 +24,17 @@ A curated collection of essays exploring AI, culture, power, meaning, and the ev
 ## 📄 Publications
 
 
-🏗️ **The Augmented Self: AI Scaffolds, Offloading, and the Drift Toward Dependency**
+⚠️ **The Coming Unrest: Automation, Mass Unemployment, and the Breakdown of Stability**  
+[The_Coming_Unrest_by_Korovamode_2026_01_15.md](https://github.com/korovamode/publication/blob/main/works/The_Coming_Unrest_by_Korovamode_2026_01_15.md)
+
+🏗️ **The Augmented Self: AI Scaffolds, Offloading, and the Drift Toward Dependency**  
 [The_Augmented_Self_by_Korovamode_2025_12_28.md](https://github.com/korovamode/publication/blob/main/works/The_Augmented_Self_by_Korovamode_2025_12_28.md)  
 *Article Version*: [The_Augmented_Self_Article_2026_01_09.md](https://github.com/publication/blob/main/works/The_Augmented_Self_Article_2026_01_09.md)
 
-🧩 **The Architecture of the Post-Work Order: Power and Agency After the Economy Stops Needing People**
+🧩 **The Architecture of the Post-Work Order: Power and Agency After the Economy Stops Needing People**  
 [The_Architecture_of_the_Post_Work_Order_by_Korovamode_2025_12_01.md](https://github.com/korovamode/notes/blob/main/works/The_Architecture_of_the_Post_Work_Order_by_Korovamode_2025_12_01.md)
 
-🎛️ **The New Machinery of Persuasion** 
+🎛️ **The New Machinery of Persuasion**  
 Generative AI, Influence Architecture, and the Quiet Steering of Thought
 [The_New_Machinery_of_Persuasion_by_Korovamode_2025_11_26.md](https://github.com/korovamode/notes/blob/main/works/The_New_Machinery_of_Persuasion_by_Korovamode_2025_11_26.md)
 
