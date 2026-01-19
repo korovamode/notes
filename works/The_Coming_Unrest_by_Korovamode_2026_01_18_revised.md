@@ -1,35 +1,34 @@
 # The Coming Unrest
 ## Automation, Mass Unemployment, and the Breakdown of Stability
 
-Korovamode | January 15, 2026
-
+Korovamode | January 17, 2026
 
 **Abstract**  
-This essay argues that the first macro-visible effect of advanced AI adoption may be missing jobs rather than immediate mass unemployment: expected openings and churn fail to appear as firms translate capability gains into headcount reduction via non-backfilling and attrition absorption. The result is blocked mobility—more people seeking exits from worsening terms, fewer openings to take—weakening outside options and shifting bargaining power. As buffers thin, insecurity can feed back into demand, turning a slow squeeze into a faster employment break when shocks hit. The essay defines unrest as a threshold of blocked exit, and argues that sustained stress creates political selection pressures that reward fast, legible levers of control, pushing governance toward coercive stabilization. Finally, it explains how synchronized adoption across countries reduces escape valves and amplifies instability.
+This essay argues that advanced AI accelerates automation by lowering the cost of turning work into durable systems—an “automation of automation” dynamic in which the integration and iteration layer increasingly becomes automatable itself. It identifies four features that drive fast, quietly consequential diffusion (composability, friction collapse, digital legibility, and ergonomic packaging), then explains how capability converts into staffing outcomes through non-backfilling, attrition absorption, and an expectation ratchet that raises output baselines without proportional hiring. The first macro-visible signature is not mass layoffs but “missing jobs”: a sustained narrowing of openings and churn that weakens outside options and blocks ordinary mobility, making insecurity widespread before disruption is officially narrated as a crisis. The essay defines unrest as blocked exit expressed as persistent contention and institutional volatility, and argues that sustained strain selects for “fast, legible levers” of control that stabilize perception while increasing long-run brittleness. Finally, it extends the model globally: synchronized adoption across countries removes traditional escape valves and increases the likelihood that systems converge toward a small set of political attractors, ranging from coercive stabilization to managed adaptation.
 
-**Keywords**  
-Artificial intelligence; automation; labor markets; technological unemployment; bargaining power; political economy; inequality; social unrest; political instability; governance; macroeconomic feedback; globalization.
+**Keywords**
+Artificial intelligence; automation; automation of automation; composability; labor markets; missing jobs; technological unemployment; bargaining power; political economy; social unrest; political instability; governance; Jevons’ Paradox; globalization.
 
 
-## 1) From Missing Jobs to Mass Unemployment
+## 1) From Automation-of-Automation to Mass Unemployment
 
-The first visible sign of AI-driven automation won’t be mass firings. It will be **missing jobs**—roles that never open, backfills that never happen, opportunities that quietly vanish. That early signal is not the whole story; it is the leading edge of a deeper shift that can accumulate into **mass unemployment**—sustained, structurally elevated joblessness and underemployment (including labor-force exit), not a short recessionary spike—as task substitution compounds and firms learn to run permanently lean. The mechanism stays hard to see because the change does not announce itself until it is already embedded in normal operations.
+Artificial intelligence is causing automation to accelerate faster than ever. With AI as a propellant, the work of building automation increasingly becomes automatable itself. As mechanizing tasks becomes cheaper and easier to implement, automation spreads faster as it expands. As a result, the current wave of AI expansion is likely to produce mass disruption in the employment market.
+
+In earlier automation waves, the limiting factor was not whether a task could be automated in principle. It was the time and coordination required to integrate tools into real operations—workflow redesign, edge-case handling, monitoring, maintenance, and training. Those costs created a lag between capability and displacement. AI compresses that lag by making the integration and iteration layer cheaper and faster.
 
 ### Why AI Adoption Moves Fast
 
-Four features make adoption fast and quietly consequential: friction collapse, digital legibility, composability, and ergonomic packaging.
+Four features make adoption fast and quietly consequential: composability, friction collapse, digital legibility, and ergonomic packaging. These features explain speed; the next section explains translation into staffing outcomes.
 
-First: **friction collapse** changes the basic economics of knowledge work. When AI turns many tasks into cheap first passes followed by rapid iteration, coordination-heavy work can run as a tight loop: draft, check, revise, repeat.
+First: **composability** turns speedups into a throughput regime. AI links steps that once required separate people, separate tools, and multiple handoffs. When language work becomes modular inside a single workflow, small gains compound: less waiting, less context translation, fewer format repairs. As the integration "glue" becomes faster to build and easier to keep current, more work becomes systems—and systems don’t ask for headcount. More work becomes systems—and systems don’t ask for headcount.
+
+Second: **friction collapse** changes the basic economics of knowledge work. When AI turns many tasks into cheap first passes followed by rapid iteration, coordination-heavy work can run as a tight loop: draft, check, revise, repeat.
 
 As iteration becomes inexpensive, firms standardize processes that previously relied on slow, bespoke human effort. The immediate effect is less labor time per deliverable—and a shift in what is “worth automating.” As the cost curve moves, the *automation frontier* expands: more work becomes “good enough” to integrate into production, including tasks that used to be marginal because they required extensive drafting and rework.
 
-Second: **digital legibility** accelerates adoption because much of white-collar work already exists in machine-addressable form. Inputs and outputs are digital, standardized, and trackable, so AI can enter these workflows without new sensors or physical infrastructure. It operates directly on the representations firms already use to coordinate work. This makes adoption incremental and quiet: AI is inserted as a thin layer inside existing tools and routines, handling first-pass language work and simple coordination tasks. These “micro-insertions” don’t look like replacement events. They look like speedups—and in aggregate they reduce the labor required per unit of output.
-
-Third: **composability** turns speedups into a throughput regime. AI links steps that once required separate people, separate tools, and multiple handoffs. When language work becomes modular inside a single workflow, small gains compound: less waiting, less context translation, fewer format repairs. A related accelerant is the *automation of automation*: AI reduces the cost of building and maintaining the glue that converts “one-off assistance” into repeatable process. Integrations and the surrounding internal tooling become faster to build and easier to keep current. More work becomes systems—and systems don’t ask for headcount.
+Third: **digital legibility** accelerates adoption because much of white-collar work already exists in machine-addressable form. Inputs and outputs are digital, standardized, and trackable, so AI can enter these workflows without new sensors or physical infrastructure. It operates directly on the representations firms already use to coordinate work. This makes adoption incremental and quiet: AI is inserted as a thin layer inside existing tools and routines, handling first-pass language work and simple coordination tasks. These “micro-insertions” don’t look like replacement events. They look like speedups—and in aggregate they reduce the labor required per unit of output.
 
 Fourth: **ergonomic packaging** widens the adoption surface area. When agentic capability is delivered through a familiar, task‑first interface with permissioned access to folders and connectors—rather than a CLI—it becomes usable by nontechnical roles without engineering mediation.[18] Recent desktop “co-worker” releases show how quickly this packaging can move agentic workflows from a niche tool to a default layer in ordinary operations. This increases the rate of incremental insertions: more tasks become delegable, more workflows become repeatable, and compounding effects can arrive before they are narrated as displacement.
-
-This is why the timeline is not the “normal automation” story by default. The mechanism is familiar; the enabling conditions are changing: lower integration cost, higher workflow compatibility, and compounding toolchains compress the adoption curve and reduce the number of “second chances” the labor market typically provides.
 
 ### How Capability Becomes Headcount Reduction Inside Firms
 
@@ -39,7 +38,7 @@ Once this pattern stabilizes, it produces a second, more durable dynamic: the **
 
 This does not deny that AI can also complement labor and expand some kinds of work. In some sectors, adoption will raise demand for certain skills, and new job categories will appear. The claim is narrower: even with pockets of job creation, the **net flow of openings** can still shrink if headcount compression outpaces the rate at which new roles are created—and if the new roles are fewer, harder to access, or concentrated in particular firms and regions.
 
-This is where the missing-jobs phase begins to accumulate into mass unemployment. A labor market is, in part, a system for continually creating and refilling roles. It needs expansion and replacement hiring. It also needs entry points and recovery hiring. If firms learn that they can maintain or increase throughput while suppressing replacement hiring, the flow of new positions narrows even when revenue is stable. Over multiple quarters and cycles, the reduction in *flow* (openings) becomes reduction in *stock* (employment). That is why missing jobs is treated here as a leading indicator rather than a substitute claim.
+Mass unemployment can arrive through the labor market’s flow before it shows up in the headline stock. A labor market is, in part, a system for continually creating and refilling roles. It needs expansion and replacement hiring. It also needs entry points and recovery hiring. If firms learn that they can maintain or increase throughput while suppressing replacement hiring, the flow of new positions narrows even when revenue is stable. One early, macro-visible signature of this shift won’t be mass firings. It will be **missing jobs**—roles that never open, backfills that never happen, opportunities that quietly vanish. That early signal is the leading edge of a deeper shift that can accumulate into **mass unemployment**—sustained, structurally elevated joblessness and underemployment (including labor-force exit), not a short recessionary spike—as task substitution compounds and firms learn to run permanently lean. The mechanism stays hard to see because the change does not announce itself until it is already embedded in normal operations.
 
 ### The Missing-Jobs Signature
 
@@ -61,7 +60,7 @@ A “quiet” employment shock can be mistaken for a temporary freeze or cyclica
 
 So where does mass unemployment enter—concretely, rather than rhetorically?
 
-It enters when the missing-jobs phase stops being a transitional haze and becomes a sustained state: a persistent narrowing of openings that outlasts a business cycle, combines with compounding task substitution, and removes the market’s usual ability to absorb displacement through churn. In that world, unemployment is not merely a recession spike. It is structural residue: the labor-demand curve has moved.
+It enters when the missing-jobs phase stops being a transitional haze and becomes a sustained state: a persistent narrowing of openings that outlasts a business cycle, combines with compounding task substitution, and keeps lowering the cost of converting work into systems—so the market’s usual ability to absorb displacement through churn fails. In that world, unemployment is not merely a recession spike. It is structural residue: the labor-demand curve has moved.
 
 A labor market can look “mostly employed” for a time while mobility and second chances degrade underneath. But the direction of travel is what matters. When firms can raise throughput while suppressing hiring, and when those gains compound across workflows and vendors, the system stops reliably converting growth into jobs. The early phase is a door quietly narrowing. The late phase is a door closed.
 
@@ -71,9 +70,10 @@ Insecurity also feeds back into demand. When households treat the future as prec
 
 Once openings thin, outside options weaken—and a labor-market shock becomes a social and political shock.
 
+
 ## 2) Domestic Disruption and Unrest
 
-The employment shock matters because it does not stay inside the labor market. When **missing jobs** becomes **mass unemployment**, the core failure is not only lost income; it is the collapse of credible futures. People can endure hardship when they believe there is a path back. They destabilize when the path disappears.
+The employment shock matters because it does not stay inside the labor market. When automation-driven contraction moves from **missing jobs** to **mass unemployment**, the core failure is not only lost income but the loss of credible futures. People can endure hardship when they believe there is a path back. They destabilize when the path disappears.
 
 In this context, **domestic** refers to the internal dynamics within any given country—its labor market, institutions, and social order—rather than cross-border spillovers. The focus is largely on advanced democracies, but the mechanisms described are general.
 
@@ -175,7 +175,7 @@ One attractor is *hardened authoritarian control*: stability pursued through sur
 
 If the trajectory described above holds, the outcome is not a single rupture. It is a new baseline: a society that continues to function, but with less slack, less trust, and more coercion built into the routine management of everyday life.
 
-The defining feature of this baseline is brittleness. The system still produces goods and services. Institutions still operate. Elections still occur. But conflict becomes harder to resolve peacefully because the underlying opportunity structure has narrowed. When fewer people believe they can exit bad conditions—bad jobs, bad regions, bad institutions—more conflicts become fights over enforcement rather than negotiations over terms.
+The defining feature of this baseline is brittleness. The system still produces goods and services. Institutions operate. Elections still occur. But conflict becomes harder to resolve peacefully because the underlying opportunity structure has narrowed. When fewer people believe they can exit bad conditions—bad jobs, bad regions, bad institutions—more conflicts become fights over enforcement rather than negotiations over terms.
 
 ### Ambient Insecurity
 
@@ -207,7 +207,7 @@ The core signature of this world is fewer exits and more pressure. When exits cl
 
 ## 5) Conclusion
 
-The early signature is **missing jobs**. The downstream risk is **mass unemployment** as task substitution compounds and firms normalize permanently lean operating models. The rest of the argument traces how that shift propagates into insecurity, **unrest**, and synchronized global stress.
+The engine is the automation of automation: AI lowers the cost of turning work into systems, so substitution and headcount compression compound. The early signature is **missing jobs**. The downstream risk is **mass unemployment** as firms normalize permanently lean operating models. 
 
 Once that shift takes hold, it does not stay inside the labor market. It collapses **outside options**—the practical alternatives that let people refuse bad conditions, exit failing roles, and restart without catastrophic loss. As outside options weaken, insecurity spreads beyond the unemployed to anyone whose future depends on a labor market that no longer provides credible mobility. That insecurity pushes strain into institutions: legitimacy stakes rise, time horizons shorten, and volatility increases.
 
@@ -218,6 +218,7 @@ Unrest follows as contention becomes routine: more strikes and protests, more fl
 The point is probability, not certainty. The timeline will vary by sector and by country. But the direction of travel is being set by incentives and capabilities that move faster than adaptation and governance typically can. Dangerous times rarely require a single dramatic moment. They arrive when societies lose room to maneuver. The question is whether institutions can build enough slack, fast enough, to keep brittleness from becoming breakdown.
 
 #korovamode
+
 
 ## Appendix A: Glossary
 
@@ -230,6 +231,9 @@ The point is probability, not certainty. The timeline will vary by sector and by
 - **Digital legibility**: The extent to which work is already expressed in digital, standardized inputs and outputs—making it easy for AI to ingest, produce, and integrate into workflow.
 - **Friction collapse**: A sharp drop in the time, cost, and coordination needed to generate a usable first draft or action, shifting many tasks from “expensive to try” to “cheap to iterate.”
 - **Composability**: The ease with which AI capabilities can be chained with other tools, APIs, and workflows to automate multi-step work.
+- **Automation of automation**: The dynamic where AI reduces the cost of building and maintaining the integrations, tooling, and process “glue” that turns one-off assistance into repeatable systems—accelerating adoption and headcount compression.
+- **Jevons’ Paradox**: The pattern where efficiency gains lower effective cost and can increase total use; applied here as the claim that cheaper “cognition” may expand demand enough to offset job loss.
+- **Luddite fallacy**: The claim that technological job loss is self-correcting because new jobs will reliably appear to replace old ones; treated here as a contingent historical pattern rather than a guarantee.
 - **Shadow AI**: Informal, uneven AI use inside organizations that is undercounted in official metrics but still changes productivity and staffing needs.
 - **Expectation ratchet**: The dynamic where productivity gains become the new baseline, raising output expectations without proportional staffing increases.
 - **Non-backfilling**: A contraction mechanism where vacated roles are not replaced; work is redistributed and partially automated.
@@ -241,15 +245,36 @@ The point is probability, not certainty. The timeline will vary by sector and by
 - **Attractors**: Common governance endpoints that become more likely under sustained stress (e.g., coercive control, cycling instability).
 - **Global synchronization**: When multiple countries experience labor-market pressure at the same time, weakening escape valves and policy slack.
 
+
 ## Appendix B: FAQ
 
 #### Does this require mass unemployment to be dangerous?
 
-No. The early phase is often **missing jobs** plus degraded **outside options**. That is enough to raise insecurity, tighten risk, and destabilize politics even while many remain employed.
+No. The early phase is often **missing jobs** plus degraded **outside options**, driven by compounding automation and headcount compression. That is enough to raise insecurity, tighten risk, and destabilize politics even while many remain employed.
+
+#### Isn’t this just another automation wave?
+
+Past automation waves often had three stabilizers: slow diffusion, narrow substitution, and large new labor-complementary build-outs. This wave weakens all three. AI spreads as software, not capital equipment. It targets routinized cognitive work across many sectors at once. And because AI reduces the cost of integrating and extending automation, adoption can compound rather than plateau. The result is not merely task replacement, but a faster conversion of work into repeatable process with less need for net new hiring.
 
 #### Isn’t retraining the solution?
 
 Training helps individuals. It cannot stabilize the system if destination openings do not exist at the required scale, or if automation keeps narrowing the flow of new roles.
+
+#### If AI boosts productivity, why wouldn’t wages rise and create new jobs?
+
+Productivity can rise without broad wage growth when bargaining power erodes and gains are captured as margin, price competition, or scale rather than compensation. In a missing-jobs regime, the threat of exit weakens: fewer openings mean weaker **outside options**, which compresses wage pressure even as output per worker rises. New jobs can still appear, but the system can fail to convert aggregate productivity into widely distributed purchasing power and labor demand—especially when the fastest gains occur in roles that previously served as large employment buffers.
+
+#### Doesn’t Jevons’ Paradox imply more AI means more jobs?
+
+Not necessarily. **Jevons’ Paradox** can be real: efficiency lowers effective cost and can expand total demand. The question is whether demand expands fast enough, and in domains that require large amounts of human labor, to offset contraction. In this essay’s mechanism, automation increasingly lowers the cost of automating itself, so substitution can propagate across many workflows at once. Firms can capture the gains as cycle time, margin, and scale without proportional hiring. Demand expansion is most stabilizing when growth remains strongly labor-complementary. If expansion is itself increasingly automatable, more output does not imply broad job growth.
+
+#### Isn’t this just the Luddite fallacy?
+
+The “always creates new jobs” reassurance is often treated as a law. It is not. Historically, new industries and tasks have absorbed displaced workers over time, but that outcome depends on diffusion speed, substitution breadth, demand elasticity, and how gains are distributed. This essay does not claim AI creates no new work. It claims that **automation of automation** can accelerate adoption and headcount compression across many roles faster than new openings appear—especially in entry-level and routine cognitive layers. In that regime, job creation can still occur, but not at the scale or tempo required to preserve stable labor-market flow and bargaining conditions.
+
+#### What would we expect to see first, if this is true?
+
+The earliest signs are often not layoffs. They are a narrowing of labor-market flow: fewer entry-level roles, fewer “backfill” requisitions, and slower re-opening of positions after departures. Organizations quietly absorb attrition, raise output expectations, and standardize work so it becomes more automatable. Hiring pipelines distort: more “open” postings with delayed or selective fills, longer searches for comparable roles, and increased credential inflation. Macro indicators can lag because employment levels can look stable while churn and opportunity shrink.
 
 #### Why does “outside options” matter so much?
 
@@ -259,9 +284,14 @@ Outside options determine whether people can exit bad terms. When exit is costly
 
 Because slow repair is hard and uncertain. Under stress, strategies with immediate, visible effects outcompete reforms whose benefits are delayed, diffuse, or hard to attribute—even when the short-term tactics erode long-run capacity.
 
+#### What are plausible limits or boundary cases?
+
+Some work remains resistant because it depends on physical presence, high-trust relationships, liability concentration, or unstructured environments where errors are costly and hard to contain. Some sectors may expand through new demand, regulation, or demographic pressure. The claim is not that all work disappears, but that the system can still enter a missing-jobs regime if the most automatable layers include large shares of entry-level and routine cognitive employment, and if the rate of substitution outruns the creation of new, labor-complementary roles.
+
 #### What does “global synchronization” add?
 
 If shocks arrive together, escape valves weaken simultaneously. Trade, migration, and information become transmission channels for stress rather than relief.
+
 
 ## References
 
