@@ -8,7 +8,7 @@ A curated collection of essays exploring AI, culture, power, meaning, and the ev
 [https://korovamode.substack.com](https://korovamode.substack.com)
 
 **PhilPapers**  
-[https://philpeople.org/profiles/korova-mode](https://philpeople.org/profiles/korova-mode)
+[https://philpeople.org/profiles/korovamode-k](https://philpeople.org/profiles/korovamode-k)
 
 **Zenodo**  
 [https://zenodo.org/search?q=korovamode](https://zenodo.org/search?q=korovamode)
