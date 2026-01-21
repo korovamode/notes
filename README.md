@@ -25,6 +25,10 @@ A curated collection of essays exploring AI, culture, power, meaning, and the ev
 
 ## 📄 Publications
 
+⚪ **From Snowballing Automation to Mass Unemployment** (Article)  
+SubStack: [https://korova.substack.com/p/from-snowballing-automation-to-mass](https://korova.substack.com/p/from-snowballing-automation-to-mass)  
+Repo: [The_Coming_Unrest_Article_Snowballing_2026_01_21.md](https://github.com/korovamode/publication/blob/main/works/The_Coming_Unrest_Article_Snowballing_2026_01_21.md)  
+
 ⚠️ **The Coming Unrest**  
 Automation, Mass Unemployment, and the Breakdown of Stability  
 DOI: [https://doi.org/10.5281/zenodo.18252628](https://doi.org/10.5281/zenodo.18252628)  
