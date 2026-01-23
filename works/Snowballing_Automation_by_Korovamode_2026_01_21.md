@@ -7,20 +7,32 @@ Artificial intelligence is making automation accelerate faster than previous wav
 
 In earlier automation waves, the limiting factor was rarely whether a task *could* be automated in theory. The real bottleneck was integration: redesigning workflows, handling edge cases, monitoring, maintenance, and training. Those costs created a lag between capability and displacement. AI compresses that lag by making the “integration and iteration” layer cheaper and faster.
 
-The mechanism is simple. AI reduces the time and coordination needed to convert work into systems, so adoption often arrives as small workflow insertions rather than dramatic replacement events. Because each attempt is cheaper, firms can try more variants in less time, discard failures at lower cost, and standardize what works. Process design becomes a kind of search: generate, evaluate, keep.
+AI reduces the time and coordination needed to convert work into systems, so adoption often arrives as small workflow insertions rather than dramatic replacement events. Because each attempt is cheaper, firms can try more variants in less time, discard failures at lower cost, and standardize what works. Over time, teams fall into a tight loop: they try small changes, keep what works, and drop what doesn’t.
 
-When AI is connected to tools, agentic systems can execute multi-step work, check results against tests and constraints, and revise repeatedly. That makes parts of integration—once a major human bottleneck—automatable. More workable “insertions” can be produced per unit time.
+As AI gets wired into tools and workflows, it can carry work across multiple steps, check results against constraints, and revise repeatedly. That pulls parts of integration—once a major human bottleneck—into the automatable set. More workable “insertions” can be produced per unit time.
 
-This is where **snowballing automation** shows up. Each successful integration leaves behind reusable pieces—scripts, templates, agent patterns, monitoring, connectors—that make the next integration cheaper and faster. Over time, that creates a compounding effect: automation capacity grows because the outputs of automation feed back into producing more automation. Adoption accelerates *as it expands*, producing superlinear acceleration and an exponential-like growth pattern for a period.
+This is where **snowballing automation** shows up. Each successful integration leaves behind reusable scaffolding—patterns, tooling, and operational know-how—that makes the next integration cheaper and faster. Over time, that creates a compounding effect: automation capacity grows because the outputs of automation feed back into producing more automation. Adoption accelerates as it expands, at least for a period, because each successful integration makes the next one cheaper.
 
 Firms then translate throughput gains into staffing outcomes in predictable ways: hold headcount flat, consolidate responsibilities, and suppress replacement hiring.
 
 At the labor-market level, the first signature is not necessarily mass layoffs. It is a narrowing flow of openings—roles that never appear, backfills that never happen. Over time, that can accumulate into structurally elevated unemployment even if headline employment looks stable at first.
 
-## Companion Essay
+The bridge from “missing openings” to unemployment is mobility. Job switching and reallocation depend on openings. When backfills disappear and hiring slows, people who would have moved into new roles get stuck, and people who lose a job take longer to find the next one. The disruption shows up first as longer searches, stalled transitions, and underemployment—not necessarily as a single layoff event.
 
-Korovamode. *The Coming Unrest: Automation, Mass Unemployment, and the Breakdown of Stability.* January 18, 2026. (Full-length companion essay for this article-length adaptation.)
-[https://doi.org/10.5281/zenodo.18252628](https://doi.org/10.5281/zenodo.18252628)
+Once that tightening persists, unemployment stops behaving like a short adjustment cost and starts behaving like a baseline. The economy can remain productive while generating fewer entry points, fewer ladders, and fewer second chances. That is how incremental workflow gains can culminate in broad labor-market disruption.
+
+If this thesis is right, the early signal won’t be layoffs—it will be fewer openings, weaker hiring, and longer job-search durations.
+
+Over time, the labor market stops behaving like a liquid market and starts behaving like a clogged one. People don’t just lose jobs—they lose *paths*: the job hop that would have raised pay, the lateral move that would have reset a career, the junior role that would have opened a new ladder. The visible disruption is a widening gap between “work exists” and “work is available,” where the work that remains is harder to access and more tightly rationed.
+
+This is where mass unemployment becomes a plausible outcome. If snowballing automation continues to raise output per worker while suppressing openings, job creation has to accelerate just to keep unemployment flat. If it doesn’t—if new roles appear more slowly than old roles are compressed—then unemployment stops being cyclical and becomes structural. The economy can look productive and still strand a growing share of workers outside stable employment.
+
+Snowballing automation doesn’t need a dramatic replacement event to produce mass unemployment. It can get there quietly, by shrinking the number of opportunities the labor market needs to keep people moving.
+
+
+## Further reading
+
+Korovamode. *The Coming Unrest: Automation, Mass Unemployment, and the Breakdown of Stability.* January 18, 2026. https://doi.org/10.5281/zenodo.18252628
 
 ## Selected References
 
@@ -30,6 +42,8 @@ Korovamode. *The Coming Unrest: Automation, Mass Unemployment, and the Breakdown
 4. Stanford Institute for Human-Centered Artificial Intelligence (HAI). *AI Index Report 2025*. Stanford University, 2025.
 5. International Labour Organization (ILO). *Generative AI & Jobs: Global Index of Occupational Exposure* (refined index). May 20, 2025.
 6. International Energy Agency (IEA). *Energy and AI*. IEA, April 10, 2025.
+7. Autor, David H. “Why Are There Still So Many Jobs? The History and Future of Workplace Automation.” *Journal of Economic Perspectives* (2015).
+8. Acemoglu, Daron, and Pascual Restrepo. “Automation and New Tasks: How Technology Displaces and Reinstates Labor.” *Journal of Economic Perspectives* (2019).
 
 ---
 
