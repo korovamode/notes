@@ -3,6 +3,7 @@
 
 Korovamode | November 18, 2025
 
+*(Last updated: January 23, 2026. Formatting and references updated; FAQ added.)*
 
 ## **Abstract**
 
@@ -71,7 +72,7 @@ States have long sought this degree of visibility but rarely achieved it. Big Te
 
 ### Algorithmic Influence and Behavioral Shaping
 
-Data provides more than visibility; it provides the ability to **shape behavior**. Recommendation systems determine what information surfaces, which topics dominate attention, and which perspectives remain obscure.[11][12][13] These systems do not simply reflect user activity—they organize and curate it. Private algorithms now influence how billions of people encounter news, entertainment, and political content.[12][27]
+Data provides more than visibility; it provides the ability to shape behavior. Recommendation systems determine what information surfaces, which topics dominate attention, and which perspectives remain obscure.[11][12][13] These systems do not simply reflect user activity—they organize and curate it. Private algorithms now influence how billions of people encounter news, entertainment, and political content.[12][27]
 
 This influence extends beyond information exposure. Platform design nudges users toward particular actions: watching longer, clicking more, consuming specific categories of content, or engaging with particular social dynamics.[11][12] Over time, these nudges shape habits, preferences, and beliefs. Research has shown that algorithmic curation can reinforce biases, amplify polarizing material, and reward emotionally charged content.[11][12][13]
 
@@ -191,7 +192,7 @@ The combined effect of Big Tech’s economic resources, infrastructural reach, d
 
 Big Tech companies now reach populations larger than those of most states, maintain financial capacity that rivals national budgets, and operate infrastructures that span continents.[14][16][23] In practice, their platforms govern vast digital populations—setting rules for identity, content, economic participation, and platform behavior.[1][11][25]
 
-This governance operates through **architecture** rather than law. Platform design determines what speech is visible, how information circulates, what content is prioritized, and which economic interactions are enabled or restricted.[11][12][27] These decisions carry political consequences even when framed as product or safety choices.[12][29]
+This governance operates through architecture rather than law. Platform design determines what speech is visible, how information circulates, what content is prioritized, and which economic interactions are enabled or restricted.[11][12][27] These decisions carry political consequences even when framed as product or safety choices.[12][29]
 
 ### Risks of Corporate Superpowers
 
@@ -229,102 +230,89 @@ The rise of corporate sovereignty marks a fundamental shift in how power is orga
 #korovamode
 
 
----
+
+
+
+
+## FAQ
+
+### 1. What does “corporate sovereignty” mean in this essay?
+
+In this essay, **corporate sovereignty** refers to a form of non-state power in which a private firm can exercise *operational authority* over essential digital systems: it can set rules, shape behavior, and constrain what governments and institutions can practically do, even when the state retains formal legal authority.
+
+### 2. Does this claim that corporations “replace” nation-states?
+
+No. The claim is that the balance of power shifts: states retain coercive and legal authority, while large platform firms increasingly control the infrastructure, standards, and channels through which modern governance and economic life operate.
+
+### 3. Isn’t this just “capitalism” or “globalization” under a new label?
+
+The essay’s focus is narrower: not markets in general, but a specific configuration in which a small number of firms own and operate transnational infrastructures (cloud, identity, communication, platforms) that behave like governance layers.
+
+### 4. If states can regulate, how can corporations be “sovereign”?
+
+Regulation matters, but the essay argues that dependence and scale create structural constraint: when governments rely on private cloud, identity, and communications systems for core services, the range of feasible policy options narrows—even if the law says the state is in charge.
+
+### 5. Is this a conspiracy argument?
+
+No. The mechanisms described (infrastructure dependence, data visibility, economic concentration, lobbying capacity, and security functions) are ordinary features of modern digital systems operating at global scale, not secret coordination.
+
+### 6. What would count as evidence against the corporate-sovereignty framing?
+
+Evidence that states can reliably impose binding constraints on major platforms *without* destabilizing essential services; that public alternatives can replace core private infrastructures at scale; or that platform rule-making no longer functions as a de facto governance layer across borders.
+
+### 7. What kinds of responses are implied (without prescribing a single solution)?
+
+Responses typically fall into a few buckets: reduce dependence (public options, portability, interoperability), increase accountability (auditability, oversight, transparency), and constrain concentration (competition policy, procurement rules, standards). The essay’s main point is that existing frameworks are incomplete for the power structure now in view.
+
+
+## Glossary
+
+- **Corporate sovereignty**: A form of non-state sovereignty in which a private firm can exercise durable, cross-border *operational authority* over essential digital infrastructures and the rules that govern their use.
+- **Corporate sovereign**: A private firm whose scale, infrastructure control, data access, and political leverage allow it to behave as a geopolitical actor—constraining or shaping state capacity without territorial rule.
+- **Operational authority**: Practical power over what is possible or permitted in digital life (identity, access, distribution, continuity), exercised through systems, standards, and enforcement mechanisms rather than public law alone.
+- **Platform governance**: Rule-making and enforcement conducted by a private platform (content rules, identity requirements, monetization access, API constraints) applied simultaneously across jurisdictions.
+- **Digital infrastructure**: The technical substrate that enables communication and coordination at scale (cloud compute, networks, identity systems, app ecosystems, data pipelines) and increasingly functions as a public utility layer.
+- **Data visibility**: The informational advantage created when a firm can observe behavioral signals across large populations and institutions, enabling prediction, targeting, and strategic leverage.
+- **Corporate intelligence capability**: A firm’s ability to infer conditions, trends, and risks from large-scale behavioral data—producing intelligence-like insight without state surveillance authorities.
+- **Behavioral governance**: The steering of attention and meaning through platform design and algorithmic curation, shaping what users see, believe, and do.
+- **Economic gravitational pull**: A condition in which a platform’s standards, distribution channels, and capital reshape markets around it, making other actors adapt to its technical and commercial logic.
+- **Infrastructural sovereignty**: The capacity to sustain core digital functions across borders (compute, identity, connectivity, continuity), creating leverage over institutions that depend on those services.
+- **Private authority**: Governance-like power exercised by non-state actors through standards, contracts, and infrastructure control, often operating alongside formal state authority.
+- **Digital sovereignty**: The capacity of a state or institution to control its digital dependencies (infrastructure, data, standards) rather than having them determined externally by foreign states or private firms.
+
 
 ## **Endnotes**
 
-1. Tarleton Gillespie, *Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media* (Yale University Press, 2018).  
-2. Kieron O’Hara and Wendy Hall, *Four Internets: Data, Geopolitics, and the Future of Digital Governance* (Oxford University Press, 2021).  
-3. Amazon Web Services, “AWS Global Infrastructure,” AWS Documentation (2024).  
-4. *The Economist*, “The Geopolitics of Internet Cables,” March 2021.  
-5. Amazon, “Project Kuiper Overview,” Amazon.com, 2023.  
-6. Microsoft, “Azure Data Center Resiliency,” Microsoft Documentation, 2024.  
-7. Henry Farrell and Abraham L. Newman, “Weaponized Interdependence: How Global Economic Networks Shape State Coercion,” *International Security* 44, no. 1 (2019).  
-8. Shoshana Zuboff, *The Age of Surveillance Capitalism* (PublicAffairs, 2019).  
-9. McKinsey Global Institute, “Notes from the AI Frontier: Insights from Hundreds of Use Cases” (2018).  
-10. Citizen Lab, “Analysis of Device-Level Tracking in Mobile Applications,” Citizen Lab Reports, 2021.  
-11. Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism* (NYU Press, 2018).  
-12. The Royal Society, “Online Behavioural Influence: Information Environment and Algorithmic Curation,” Royal Society Policy Briefing (2022).  
-13. Oxford Internet Institute, Reuben Binns et al., “Auditing Algorithms: Research Methods for Detecting Discrimination and Bias,” OII Working Paper (2020).  
-14. U.S. Federal Reserve, “Corporate Cash Holdings in the U.S. Economy,” Federal Reserve Economic Data (FRED), 2023.  
-15. Brookings Institution, Mark Muro et al., “How Tech Hubs Reshape Regional Economies,” Brookings Report (2020).  
-16. OECD, *The Digital Transformation of SMEs*, OECD Digital Economy Papers No. 67 (2021).  
-17. *The Washington Post*, Cat Zakrzewski, “Big Tech’s Record Lobbying Spending Intensifies Policy Battles,” 2022.  
-18. Centre for European Policy Analysis (CEPA), Edward Lucas, “Techno-Geopolitics: Platforms as Political Actors,” CEPA Report (2021).  
-19. Brookings Institution, Chris Meserole, “When Governments Rely on Private Infrastructure,” Brookings TechStream (2021).  
-20. Microsoft, *Microsoft Digital Defense Report* (2023).  
-21. *Financial Times*, Alexandra Heal and Tim Bradshaw, “Satellite Networks Become Essential in Conflict Zones,” 2023.  
-22. Stanford Institute for Human-Centered AI (HAI), *AI Index Report 2024*.  
-23. Google Cloud, “Global Infrastructure: Regions and Zones,” Google Cloud Documentation (2024).  
-24. International Energy Agency (IEA), “Corporate Procurement of Renewable Energy,” IEA Market Report (2022).  
-25. Nick Srnicek, *Platform Capitalism* (Polity Press, 2016).  
-26. Oxford Internet Institute, Samuel Woolley, “Digital Propaganda and the Platform Landscape,” OII Analysis Paper (2021).  
-27. Brookings Institution, Cameron Kerry, “The New Digital Dependency: Policy Challenges of Platform Infrastructure,” Brookings Governance Studies (2022).  
-28. David Runciman, *How Democracy Ends* (Profile Books, 2018).  
-29. Saskia Sassen, *Territory, Authority, Rights: From Medieval to Global Assemblages* (Princeton University Press, 2006).  
-30. Philip G. Cerny, “The Competition State and the Restructuring of the Global Political Economy,” *International Organization* 51, no. 1 (1997).  
+1. Tarleton Gillespie, *Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media* (Yale University Press, 2018).
+2. Paul O’Hara and Wendy Hall, *Four Internets: The Geopolitics of Digital Governance* (Oxford University Press, 2021).
+3. Amazon Web Services (AWS), “AWS Global Infrastructure,” accessed January 23, 2026, https://aws.amazon.com/about-aws/global-infrastructure/.
+4. Jill C. Gallagher, “Undersea Telecommunication Cables: Technology Overview and Issues for Congress,” Congressional Research Service (CRS) Report R47237 (September 13, 2022); and Jill C. Gallagher, “Protection of Undersea Telecommunication Cables: Issues for Congress,” CRS Report R47648 (August 7, 2023).
+5. Amazon, “Amazon Leo (formerly Project Kuiper),” accessed January 23, 2026, https://www.aboutamazon.com/what-we-do/devices-services/amazon-leo.
+6. Microsoft, “Datacenter business continuity and disaster recovery (Microsoft Service Assurance),” accessed January 23, 2026, https://learn.microsoft.com/en-us/compliance/assurance/assurance-datacenter-business-continuity-disaster-recovery.
+7. Henry Farrell and Abraham L. Newman, “Weaponized Interdependence: How Global Economic Networks Shape State Coercion,” *International Security* 44, no. 1 (2019): 42–79, https://doi.org/10.1162/isec_a_00351.
+8. Archie B. Carroll, Jill A. Brown, and Ann K. Buchholtz, *Business & Society: Ethics, Sustainability, and Stakeholder Management*, 10th ed. (Boston: Cengage Learning, 2017).
+9. Michael Chui, James Manyika, and Mehdi Miremadi, “Notes from the AI Frontier: Insights from Hundreds of Use Cases,” McKinsey Global Institute Discussion Paper (April 2018).
+10. Federal Trade Commission, *A Look Behind the Screens: Examining the Data Practices of Social Media and Video Streaming Services* (FTC 6(b) study staff report, September 2024).
+11. Shoshana Zuboff, *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power* (New York: PublicAffairs, 2019).
+12. The Royal Society, *The Online Information Environment: Understanding How Information Is Produced, Shaped and Consumed* (London: The Royal Society, 2019).
+13. Christian Sandvig, Kevin Hamilton, Karrie Karahalios, and Cedric Langbort, “Auditing Algorithms: Research Methods for Detecting Discrimination on Internet Platforms” (2014).
+14. U.S. Securities and Exchange Commission (SEC), EDGAR filings (Form 10-K): Apple Inc., Form 10-K for the fiscal year ended September 28, 2024 (SEC Accession No. 0000320193-24-000123; filed November 1, 2024), https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/0000320193-24-000123-index.htm; Microsoft Corporation, Form 10-K for the fiscal year ended June 30, 2024 (SEC Accession No. 0000950170-24-087843; filed July 30, 2024), https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/0000950170-24-087843-index.htm; Alphabet Inc., Form 10-K for the fiscal year ended December 31, 2024 (SEC Accession No. 0001652044-25-000014; filed February 5, 2025), https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/0001652044-25-000014-index.htm; Meta Platforms, Inc., Form 10-K for the fiscal year ended December 31, 2024 (SEC Accession No. 0001326801-25-000017; filed January 30, 2025), https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/0001326801-25-000017-index.html.
 
-
----
-
-## **Bibliography**
-
-Amazon. 2023. “Project Kuiper Overview.” Amazon.com.
-
-Amazon Web Services. 2024. “AWS Global Infrastructure.” *AWS Documentation*.
-
-Binns, Reuben, et al. 2020. “Auditing Algorithms: Research Methods for Detecting Discrimination and Bias.” *Oxford Internet Institute Working Paper*.
-
-Brookings Institution. Kerry, Cameron F. 2022. “The New Digital Dependency: Policy Challenges of Platform Infrastructure.” *Brookings Governance Studies*.
-
-Brookings Institution. Meserole, Chris. 2021. “When Governments Rely on Private Infrastructure.” *Brookings TechStream*.
-
-Brookings Institution. Muro, Mark, et al. 2020. “How Tech Hubs Reshape Regional Economies.” *Brookings Report*.
-
-Cerny, Philip G. 1997. “The Competition State and the Restructuring of the Global Political Economy.” *International Organization* 51 (1): 253–284.
-
-Centre for European Policy Analysis (CEPA). Lucas, Edward. 2021. “Techno-Geopolitics: Platforms as Political Actors.” *CEPA Report*.
-
-Citizen Lab. 2021. “Analysis of Device-Level Tracking in Mobile Applications.” *Citizen Lab Reports*.
-
-Farrell, Henry, and Abraham L. Newman. 2019. “Weaponized Interdependence: How Global Economic Networks Shape State Coercion.” *International Security* 44 (1): 42–79.
-
-Financial Times. Heal, Alexandra, and Tim Bradshaw. 2023. “Satellite Networks Become Essential in Conflict Zones.” *Financial Times*.
-
-Google Cloud. 2024. “Global Infrastructure: Regions and Zones.” *Google Cloud Documentation*.
-
-International Energy Agency (IEA). 2022. “Corporate Procurement of Renewable Energy.” *IEA Market Report*.
-
-McKinsey Global Institute. 2018. “Notes from the AI Frontier: Insights from Hundreds of Use Cases.”
-
-Microsoft. 2023. *Microsoft Digital Defense Report*.
-
-Microsoft. 2024. “Azure Data Center Resiliency.” *Microsoft Documentation*.
-
-Noble, Safiya Umoja. 2018. *Algorithms of Oppression: How Search Engines Reinforce Racism*. New York: NYU Press.
-
-O’Hara, Kieron, and Wendy Hall. 2021. *Four Internets: Data, Geopolitics, and the Future of Digital Governance*. Oxford: Oxford University Press.
-
-OECD. 2021. *The Digital Transformation of SMEs*. OECD Digital Economy Papers No. 67.
-
-Oxford Internet Institute. Woolley, Samuel. 2021. “Digital Propaganda and the Platform Landscape.” *OII Analysis Paper*.
-
-Runciman, David. 2018. *How Democracy Ends*. London: Profile Books.
-
-Sassen, Saskia. 2006. *Territory, Authority, Rights: From Medieval to Global Assemblages*. Princeton: Princeton University Press.
-
-Srnicek, Nick. 2016. *Platform Capitalism*. Cambridge: Polity Press.
-
-Stanford Institute for Human-Centered Artificial Intelligence (HAI). 2024. *AI Index Report 2024*.
-
-The Economist. 2021. “The Geopolitics of Internet Cables.” *The Economist*, March 2021.
-
-The Royal Society. 2022. “Online Behavioural Influence: Information Environment and Algorithmic Curation.” *Policy Briefing*.
-
-U.S. Federal Reserve. 2023. “Corporate Cash Holdings in the U.S. Economy.” *Federal Reserve Economic Data (FRED)*.
-
-Washington Post. Zakrzewski, Cat. 2022. “Big Tech’s Record Lobbying Spending Intensifies Policy Battles.” *The Washington Post*.
-
-Zuboff, Shoshana. 2019. *The Age of Surveillance Capitalism*. New York: PublicAffairs.
-
+15. Mark Muro et al., “The Case for Growth Centers: How to Spread Tech Innovation Across America,” Brookings Metropolitan Policy Program and Information Technology & Innovation Foundation (ITIF), 2019.
+16. Organisation for Economic Co-operation and Development (OECD), “The Digital Transformation of SMEs,” *OECD Digital Economy Papers* No. 67 (2013), https://doi.org/10.1787/bdb9256a-en.
+17. Cat Zakrzewski, “Big Tech Spent Big on Lobbying, With Record Spending in 2022,” *The Washington Post* (January 25, 2023).
+18. Ian Bremmer and Mustafa Suleyman, “The Technopolar Moment: How Digital Powers Will Reshape the Global Order,” *Foreign Affairs* (October 19, 2021).
+19. U.S. Office of Management and Budget, “Federal Cloud Computing Strategy (‘Cloud Smart’),” (June 24, 2019); U.S. Government Accountability Office, “Cloud Computing: Agencies Need to Implement OMB’s Cloud Smart Strategy,” GAO-24-106137 (January 2024); and Florian Jansen et al., “Digital sovereignty in the era of cloud computing: An assessment of government website hosting,” *Government Information Quarterly* 40, no. 3 (2023), https://doi.org/10.1016/j.giq.2023.101875.
+20. Microsoft, *Microsoft Digital Defense Report 2023* (October 2023).
+21. Reuters reporting on Starlink’s role in Ukraine and the implications of private control over battlefield connectivity (e.g., September 8, 2023).
+22. Stanford Institute for Human-Centered Artificial Intelligence (HAI), *AI Index Report 2024* (2024).
+23. Google Cloud, “Regions and zones,” *Compute Engine* documentation, accessed January 23, 2026, https://docs.cloud.google.com/compute/docs/regions-zones.
+24. International Energy Agency (IEA), “Advancing decarbonisation through clean electricity procurement” (IEA report).
+25. Fred Turner, *From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism* (Chicago: University of Chicago Press, 2006).
+26. Samuel Woolley, “Digital Propaganda and the Platform Landscape,” Oxford Internet Institute (2021).
+27. José van Dijck, Thomas Poell, and Martijn de Waal, *The Platform Society: Public Values in a Connective World* (Oxford University Press, 2018).
+28. David Runciman, *How Democracy Ends* (London: Profile Books, 2018).
+29. Saskia Sassen, *Territory, Authority, Rights: From Medieval to Global Assemblages* (Princeton: Princeton University Press, 2006).
+30. Philip G. Cerny, “Paradoxes of the Competition State: The Dynamics of Political Globalization,” *Government and Opposition* 32, no. 2 (1997): 251–274, https://doi.org/10.1111/j.1477-7053.1997.tb00161.x.
+31. Rodney Bruce Hall and Thomas J. Biersteker (eds.), *The Emergence of Private Authority in Global Governance* (Cambridge: Cambridge University Press, 2002).
 
