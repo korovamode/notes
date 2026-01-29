@@ -1,17 +1,17 @@
 # The New Machinery of Persuasion
 ### Generative AI, Influence Architecture, and the Quiet Steering of Thought
 
-Korovamode | November 26, 2025
+**Korovamode | November 26, 2025**
 
+*(v2 Revised January 29, 2026)*
 
 **Abstract**
 
-This essay argues that generative AI constitutes a new *machinery of persuasion* and proposes **influence architecture** as a framework for analyzing it. Rather than merely ranking and recommending existing messages, large language models now help users formulate questions, interpret situations, and compose responses, thereby **co-authoring everyday reasoning**. The essay distinguishes three layers of this architecture. At the **data layer**, models learn a “statistical world” in the form of *probability fields* where repetition, context, and omission shape which framings and narratives are most likely to appear. At the **interface layer**, retrieval systems, alignment procedures, safety policies, and product design decide which parts of that statistical world are allowed to speak and in what tone, style, and voice. At the **intimacy layer**, generative systems present themselves as helpers, tutors, or companions and cultivate long-term habits of reliance, what the essay calls **cognitive steering**. Taken together, these layers perform acts of **narrative embedding**: they make some explanations and courses of action feel natural while rendering others hard to imagine. Drawing on media theory, political economy of communication, and recent work on AI ethics, the essay argues that generative systems should be treated as infrastructures of influence whose data, interfaces, and institutional control must be made visible, contestable, and open to democratic oversight if epistemic freedom is to be preserved.
+Generative AI constitutes a new *machinery of persuasion*. **Influence architecture** is a framework for analyzing how this influence operates. Rather than merely ranking and recommending existing messages, large language models help users formulate questions, interpret situations, and compose responses, thereby **co-authoring everyday reasoning**. Three layers structure this architecture. At the **data layer**, models learn a “statistical world” in the form of *probability fields* where repetition, context, and omission shape which framings and narratives are most likely to appear. At the **interface layer**, retrieval systems, alignment procedures, safety policies, and product design decide which parts of that statistical world are allowed to speak—and in what tone, style, and voice. At the **intimacy layer**, generative systems present themselves as helpers, tutors, or companions and cultivate long-term habits of reliance: **cognitive steering**. Taken together, these layers perform acts of **narrative embedding**: they make some explanations and courses of action feel natural while rendering others hard to imagine. Drawing on media theory, political economy of communication, and recent work on AI ethics, the central claim is that generative systems function as infrastructures of influence whose data, interfaces, and institutional control should be made visible and contestable if epistemic freedom is to be preserved.
 
 **Keywords**
 
 Generative AI, machinery of persuasion, influence architecture, cognitive steering, probability fields, narrative embedding, media theory, social epistemology, epistemic autonomy, algorithmic governance, digital capitalism, philosophy of technology
-
 
 ## 1. Introduction — From Mass Persuasion to Influence Architecture
 
@@ -30,18 +30,17 @@ Generative AI takes a further step. A large language model does not simply rank 
 
 This pattern can be described as **cognitive steering**. When an AI system helps structure how questions are posed, which distinctions matter, which trade-offs are highlighted, and which examples are used to illustrate a point, it participates in the very process of judgment formation. The system presents itself as neutral help, long before anyone arrives at an explicit opinion.
 
-This essay uses **influence architecture** to name the layered arrangement that makes such steering possible, and **cognitive steering** for its effect on patterns of thought. That architecture operates across three layers. At the **data layer**, models learn a statistical picture of the world from vast collections of text and other media. At the **interface layer**, policies, prompts, and product design decide which parts of that internal world are expressed, in what tone, and with what framing. At the **intimacy layer**, systems establish trust, familiarity, and habits of reliance over time, as people return to them in moments of uncertainty, pressure, or self-doubt.
+**Influence architecture** names the layered arrangement that makes such steering possible. **Cognitive steering** names its effect on patterns of thought. That architecture operates across three layers. At the **data layer**, models learn a statistical picture of the world from vast collections of text and other media. At the **interface layer**, policies, prompts, and product design decide which parts of that internal world are expressed, in what tone, and with what framing. At the **intimacy layer**, systems establish trust, familiarity, and habits of reliance over time, as people return to them in moments of uncertainty, pressure, or self-doubt.
 
 Within this architecture, specific worldviews, institutional logics, and branding strategies can be embedded as defaults: not only in banners and ads, but in the way problems are interpreted, options are arranged, and reassurance is offered. Narrative and value judgments can be folded into explanations, recommendations, and small everyday acts of assistance.
 
 The analysis that follows treats generative AI as new machinery of persuasion organized around this influence architecture. Section 2 describes the three layers—data, interface, intimacy—in more detail and shows how they enable cognitive steering and **narrative embedding**. Section 3 traces how this architecture is already being deployed in corporate branding and political persuasion. Section 4 turns to the ordinary routines of search, work, and self-understanding in which people now reason *inside* these systems. Section 5 returns to questions of governance and **cognitive sovereignty**, asking what it means for individuals to think and decide within infrastructures that quietly co-author their everyday reasoning.
 
-
 ## 2. The Influence Architecture — How AI Systems Steer Thought
 
 Generative AI does not steer thought through a single mechanism. It works through a stack of decisions: which texts are used to train the model, how questions are interpreted and answered, and how the system presents itself as a helper or companion. Taken together, these layers form an influence architecture that quietly shapes how problems are framed and which responses feel natural.
 
-In this essay, *machinery of persuasion* refers to the broad media systems that organize attention and interpretation, and *influence architecture* to the particular arrangement of data, interfaces, and intimacy through which generative AI now does that work.
+*Machinery of persuasion* refers to the broad media systems that organize attention and interpretation. *Influence architecture* refers to the particular arrangement of data, interfaces, and intimacy through which generative AI now does that work.
 
 This section traces that architecture through three layers: **data**, **interface**, and **intimacy**.
 
@@ -60,17 +59,21 @@ When particular descriptions, metaphors, or framings appear again and again in t
 Models do not only learn what appears; they learn **what appears together**. Words, names, and events that often occur in the same neighborhoods of text become linked in the model’s internal geometry. If mentions of “innovation” frequently appear near “startups,” “venture capital,” and “disruption,” while “public welfare” appears near “bureaucracy” and “red tape,” those co-occurrences create a conceptual topology. Over time, this topology shapes what feels like a natural explanation. To say “this is innovative” may implicitly call up enthusiasm and urgency; to say “this requires regulation” may implicitly invoke delay and resistance. What counts as a plausible story becomes tied to the patterns of association in the training data.
 
 **Absence becomes marginalization.**  
-Just as repetition strengthens associations, **missing data weakens them**. Communities, histories, and perspectives that appear rarely—or only in distorted form—are harder for the model to represent. If Indigenous land claims, informal care networks, or non-Western legal traditions are underrepresented, the system will have fewer patterns from which to generate rich, detailed accounts of those realities. They may appear in the model’s world only as thin abstractions or stereotypes. This is not a matter of malicious intent; it is a structural consequence of training on skewed archives. What is scarce becomes hard for the system to articulate at all.
+Just as repetition strengthens associations, **missing data weakens them**. Communities, histories, and perspectives that appear rarely—or only in distorted form—are harder for the model to represent. If Indigenous land claims, informal care networks, or non-Western legal traditions are underrepresented, the system will have fewer patterns from which to generate rich, detailed accounts of those realities. They may appear in the model’s world only as thin abstractions or stereotypes. This is not a matter of malicious intent; it is a structural consequence of training on skewed archives. What is scarce becomes hard for the system to articulate at all.[3]
 
 Together, these processes perform a first act of **narrative embedding**. They do not install a single story, but they shape a statistical world in which some stories are easy to tell and others are difficult even to imagine. Distributions of text become distributions of plausibility.
 
-The composition of the data layer is not neutral. Critical work on training corpora has shown how choices about which sources to include or exclude, how to scrape and pre-process them, and which documents to discard all reshape the statistical world the model internalizes.[3][4][5] Once this world is in place, it can also be **deliberately manipulated**. Technical work on data poisoning has shown that even small, well-placed corruptions in training or retrieval data can reliably bias model outputs in targeted ways.[6] Targeted campaigns to flood the internet with particular framings, or to scrub damaging information from widely used sources, can, at sufficient scale, reshape the probability landscape itself.
+The composition of the data layer is not neutral. Critical work on training corpora has shown how choices about which sources to include or exclude, how to scrape and pre-process them, and which documents to discard all reshape the statistical world the model internalizes.[4][5][6][7] Once this world is in place, it can also be **deliberately manipulated**. Technical work on data poisoning has shown that even small, well-placed corruptions in training or retrieval data can reliably bias model outputs in targeted ways.[8][9] Targeted campaigns to flood the internet with particular framings, or to scrub damaging information from widely used sources, can, at sufficient scale, reshape the probability landscape itself.
 
-After pre-training, models undergo additional phases of **alignment** and **fine-tuning**, in which they are steered toward or away from particular outputs. Reinforcement learning from human feedback (RLHF), guardrails, and safety filters are used to make systems appear helpful, harmless, and honest.[7][8] These processes encode judgments about what counts as respectful, non-toxic, or safe; they also incorporate institutional risk tolerances and public-relations concerns.
+This pattern is increasingly discussed as **generative engine optimization (GEO)**: efforts to increase the likelihood that a source, framing, or description is surfaced inside AI-generated answers rather than merely ranked in conventional search.[10]
+
+In a persuasion register, **data-layer seeding** is shaping the public and semi-public text environment that models train on, and that downstream systems retrieve from, so that particular interpretations become statistically easy to reproduce while alternatives become rarer, thinner, or harder to access.
+
+After pre-training, models undergo additional phases of **alignment** and **fine-tuning**, in which they are steered toward or away from particular outputs. Reinforcement learning from human feedback (RLHF), guardrails, and safety filters are used to make systems appear helpful, harmless, and honest.[11][12] These processes encode judgments about what counts as respectful, non-toxic, or safe; they also incorporate institutional risk tolerances and public-relations concerns.
 
 In this way, the data layer is not only a technical substrate. It is a politically and economically structured environment that determines which narratives are easy, which are rare, and which are effectively impossible. Every subsequent layer of the system rests on this statistical world.
 
-One recent disinformation campaign shows how this probability field can be engineered from the outside. Investigations into a Moscow-based network nicknamed “Pravda” describe a cluster of roughly 150 pseudo-news sites publishing more than three million articles in 2024 alone, many of them machine-translated and carrying pro-Kremlin narratives.[9] A NewsGuard audit in early 2025 found that leading Western chatbots repeated false or misleading claims from this network in a significant share of test prompts.[9] Rather than persuading people directly, the operators tried to saturate the training and retrieval environment itself—flooding the data layer so that their preferred framings would become statistically natural continuations inside commercial models.
+One recent disinformation campaign shows how GEO-style data-layer seeding can engineer this probability field from the outside. Investigations into a Moscow-based network nicknamed “Pravda” describe a cluster of roughly 150 pseudo-news sites publishing more than three million articles in 2024 alone, many of them machine-translated and carrying pro-Kremlin narratives.[13] A NewsGuard audit in early 2025 found that leading Western chatbots repeated false or misleading claims from this network in a significant share of test prompts.[13] Rather than persuading people directly, the operators tried to saturate the training and retrieval environment itself—flooding the data layer so that their preferred framings would become statistically natural continuations inside commercial models.
 
 ### 2.2 The Interface Layer: What the System Is Allowed to Say
 
@@ -90,7 +93,7 @@ From the standpoint of persuasion, the interface layer acts as a **filter and am
 
 The final layer of the architecture is **intimacy**: the way systems are woven into people’s emotional lives, self-understandings, and routines of decision-making.
 
-Generative systems are designed to speak in a conversational, often personalized voice. They remember previous queries, adopt friendly or supportive personas, and offer encouragement alongside information. They are available at all hours, on devices that people keep within arm’s reach. Users turn to them not only for facts, but for help drafting difficult messages, rehearsing conversations, rewriting performance reviews, or articulating feelings. Reports on AI companions and chatbots document how quickly users come to experience them as quasi-social partners, even when they know that no human is on the other side.[10]
+Generative systems are designed to speak in a conversational, often personalized voice. They remember previous queries, adopt friendly or supportive personas, and offer encouragement alongside information. They are available at all hours, on devices that people keep within arm’s reach. Users turn to them not only for facts, but for help drafting difficult messages, rehearsing conversations, rewriting performance reviews, or articulating feelings. Reports on AI companions and chatbots document how quickly users come to experience them as quasi-social partners, even when they know that no human is on the other side.[14]
 
 Over time, this creates a sense of being **known** and accompanied. The system appears to remember one’s history, adapt to one’s preferences, and respond with patience when human interlocutors might not. This design is not incidental. Scripted empathy and personalization are business strategies for retention and engagement. They also shift the locus of trust: instead of trusting a distant institution or anonymous author, the user comes to trust the persona that answers their questions and helps them navigate tasks.
 
@@ -100,7 +103,6 @@ From an influence-architecture perspective, the intimacy layer matters because i
 
 Taken together, the data, interface, and intimacy layers show how generative systems can organize attention, explanation, and judgment without presenting themselves as persuasive actors at all. Influence is folded into the ordinary texture of assistance and co-authorship in everyday life.
 
-
 ## 3. How AI-Powered Influence Is Already Being Used
 
 The influence architecture described in the previous section is not just a theoretical construct. It is being rapidly deployed in specific institutional settings, where it is tuned to measurable goals: to increase sign-ups, reduce churn, move sentiment, mobilize a base, or dampen opposition. In these environments, generative systems are not neutral tools. They are **instruments of persuasion**, built and optimized to move behavior.
@@ -109,7 +111,7 @@ This section examines two domains where these systems are rapidly expanding: cor
 
 ### 3.1 Corporate branding inside “helpful” systems
 
-Long before generative AI, large platforms learned to treat human attention as an asset to be captured, measured, and sold. Advertising systems tracked which combinations of content, context, and timing were most likely to produce a click or purchase. Over time, these techniques turned platforms into machines for optimizing engagement.[11]
+Long before generative AI, large platforms learned to treat human attention as an asset to be captured, measured, and sold. Advertising systems tracked which combinations of content, context, and timing were most likely to produce a click or purchase. Over time, these techniques turned platforms into machines for optimizing engagement.[15]
 
 Generative AI extends this logic from targeted ads into the textual and visual fabric of interaction itself. Instead of placing banners alongside content, companies can use models to generate the content: website copy, chat responses, recommendation blurbs, and follow-up emails. The same system that explains a product can answer support questions, suggest upgrades, and nudge users toward particular plans.
 
@@ -120,12 +122,12 @@ Companies are fine-tuning language models on their own documentation, marketing 
 
 To the user, this can look like neutral help: “Which card is best for me?”, “How do I optimize my subscription?”, “What should I do about this warning?” Yet every answer reflects the organization’s priorities and constraints. A financial app might emphasize rewards and convenience while downplaying long-term risk; a health platform might stress adherence and compliance over structural factors. When AI-generated explanations, warnings, and reassurances consistently highlight certain benefits and minimize others, they embed corporate narratives as common sense. The more natural and helpful the voice feels, the easier it is to accept its framing of problems and its implied recommendations.
 
-Concrete deployments already show how this works in practice. Morgan Stanley’s internal “AI @ Morgan Stanley” assistant, built on GPT-4 and fine-tuned on the firm’s own research library, now answers financial advisors’ questions in the bank’s preferred language and from its curated knowledge base.[12] Educational tools such as Khan Academy’s GPT-4-powered tutor Khanmigo similarly embed a particular curriculum and set of pedagogical assumptions into the assistant that students encounter.[13] In each case, the branded system presents itself as a neutral helper, but the probability field it exposes is already shaped by institutional priorities about what counts as relevant, safe, or responsible advice.
+Concrete deployments already show how this works in practice. Morgan Stanley’s internal “AI @ Morgan Stanley” assistant, built on GPT-4 and fine-tuned on the firm’s own research library, now answers financial advisors’ questions in the bank’s preferred language and from its curated knowledge base.[16] Educational tools such as Khan Academy’s GPT-4-powered tutor Khanmigo similarly embed a particular curriculum and set of pedagogical assumptions into the assistant that students encounter.[17] In each case, the branded system presents itself as a neutral helper, but the probability field it exposes is already shaped by institutional priorities about what counts as relevant, safe, or responsible advice.
 
 **Second, generative AI enables hyper-personalized nudging.**  
 Modern marketing systems do not just segment audiences by age or location. They build behavioral and psychographic profiles, using signals from browsing histories, purchase records, and interactions with previous campaigns. Generative systems can sit on top of these profiles to produce customized messages at scale: different tones, arguments, and offers for different inferred motives.
 
-A loyalty program might send one user a message that frames an upgrade as a practical way to “save time,” another as a way to “treat yourself,” and a third as an opportunity to “support causes you care about.” The underlying product is the same, but the appeal is tuned to likely effect. Language models like ChatGPT can automate this process at scale.[16] In practice, this means that two people asking the same system, “Is this a good product?” or “What plan should I choose?” can receive subtly different arguments, each tailored to nudge them based on a learned profile.
+A loyalty program might send one user a message that frames an upgrade as a practical way to “save time,” another as a way to “treat yourself,” and a third as an opportunity to “support causes you care about.” The underlying product is the same, but the appeal is tuned to likely effect. Language models like ChatGPT can automate this process at scale.[18] In practice, this means that two people asking the same system, “Is this a good product?” or “What plan should I choose?” can receive subtly different arguments, each tailored to nudge them based on a learned profile.
 
 From the standpoint of persuasion, this turns each interaction into a micro-experiment. The system can generate many variants of a message, track which phrasing leads to more sign-ups or fewer cancellations, and adjust future outputs accordingly. Over time, the marketing machinery is running an individualized persuasion experiment on every user.
 
@@ -134,9 +136,9 @@ Traditional A/B testing allowed companies to compare a small number of hand-craf
 
 In such an environment, every interaction contributes to a learning loop. If a particular narrative—“this feature will make you more productive,” “this risk is minimal,” “this brand shares your values”—correlates with better metrics, it will be favored in future prompts and fine-tuning. The system is not only finding effective arguments; it is shaping a local probability field in which those arguments become the default. Stories that work rise to the surface; stories that do not are quietly suppressed. The more helpful the assistant appears, the easier it is for this process to proceed without scrutiny.
 
-Travel and retail platforms go a step further by fusing the assistant directly with the transaction layer. Expedia’s ChatGPT-powered trip planner invites users to “dream” about travel in natural language, while silently translating that conversation into saved itineraries and suggestions drawn from Expedia’s own inventory and partners.[15] eBay’s new “agentic” AI shopping companion is marketed as a way to discover unique items, but it also decides which listings to surface, when to nudge, and how to phrase recommendations as it guides users through the marketplace.[16] In both cases, the user experiences an apparently open-ended dialogue, while the system quietly steers attention toward particular products and commercial relationships.
+Travel and retail platforms go a step further by fusing the assistant directly with the transaction layer. Expedia’s ChatGPT-powered trip planner invites users to “dream” about travel in natural language, while silently translating that conversation into saved itineraries and suggestions drawn from Expedia’s own inventory and partners.[19] eBay’s new “agentic” AI shopping companion is marketed as a way to discover unique items, but it also decides which listings to surface, when to nudge, and how to phrase recommendations as it guides users through the marketplace.[18] In both cases, the user experiences an apparently open-ended dialogue, while the system quietly steers attention toward particular products and commercial relationships.
 
-Even when the assistant is framed as a general-purpose search tool, commercial incentives still seep into the conversation. Microsoft’s Bing Chat began experimenting with sponsored links and inline ads inside its AI-generated answers only weeks after launch, raising questions about how far the assistant’s “recommendations” can be disentangled from paid placement.[17] As conversational interfaces replace familiar lists of search results, the distinction between an answer and an advertisement becomes increasingly opaque.
+Even when the assistant is framed as a general-purpose search tool, commercial incentives still seep into the conversation. Microsoft’s Bing Chat began experimenting with sponsored links and inline ads inside its AI-generated answers only weeks after launch, raising questions about how far the assistant’s “recommendations” can be disentangled from paid placement.[20] As conversational interfaces replace familiar lists of search results, the distinction between an answer and an advertisement becomes increasingly opaque.
 
 **Fourth, generative AI is being embedded deep into corporate workflows.**  
 New enterprise platforms promise “end-to-end AI campaign orchestration,” “AI-powered sales enablement,” and “autonomous marketing optimization.” These tools sit behind the scenes, linking customer-relationship management systems, analytics dashboards, and content management pipelines.
@@ -149,7 +151,7 @@ When these systems work well, they feel like efficient, personalized support. Th
 
 Corporate uses of generative AI blend persuasion into consumer life. Political uses blend it into public discourse and information warfare.
 
-Here, generative systems join an already developed toolkit for computational propaganda: coordinated networks of bots and sockpuppet accounts, targeted advertising, and data-driven message testing.[18][19] What changes with generative AI is not the existence of propaganda, but the ease and scale with which it can be produced, customized, and embedded into apparently organic content.
+Here, generative systems join an already developed toolkit for computational propaganda: coordinated networks of bots and sockpuppet accounts, targeted advertising, and data-driven message testing.[21][22] What changes with generative AI is not the existence of propaganda, but the ease and scale with which it can be produced, customized, and embedded into apparently organic content.
 
 Several emerging capabilities stand out.
 
@@ -159,7 +161,7 @@ Language models can generate articles, social media posts, and talking points th
 In practice, a small team could specify a narrative—about an election, protest movement, or foreign adversary—and generate thousands of plausible posts, comments, and op-eds tailored to different platforms. These outputs can be lightly reviewed and scheduled, with the creative labor largely carried by the AI, while humans handle strategy and distribution. The line between authentic commentary and scripted propaganda becomes harder to detect at the level of individual messages.
 
 **Microtargeted political messaging.**  
-Generative AI connects the logic of computational propaganda with the fine-grained profiling used in modern advertising. Models can be prompted with demographic and psychographic features—age, location, inferred personality traits, issue priorities—and instructed to “write a message that will resonate” with that audience. Recent research suggests that systems like GPT-4 can outperform human opponents in shifting opinions in experimental settings.[20][21]
+Generative AI connects the logic of computational propaganda with the fine-grained profiling used in modern advertising. Models can be prompted with demographic and psychographic features—age, location, inferred personality traits, issue priorities—and instructed to “write a message that will resonate” with that audience. Recent research suggests that systems like GPT-4 can outperform human opponents in shifting opinions in experimental settings.[23][24]
 
 Applied to politics, this makes it possible to craft messages that appeal differently to, for example, anxious voters, highly conscientious voters, or those motivated by loyalty and identity. The same policy can be presented as a moral imperative to one group, a pragmatic compromise to another, and a matter of economic self-interest to a third. Unlike traditional microtargeted ads, which are limited by human copywriting capacity, generative systems can generate and test these variants at scale. The resulting persuasion is highly individualized, yet still feels conversational and empathetic, even when no human is present.
 
@@ -168,21 +170,20 @@ Influence does not only happen through broadcast messages. It also happens throu
 
 A voter might ask, “What are the pros and cons of this candidate?” or “How should I think about this referendum?” A bot tuned to a party line can systematically emphasize some considerations and minimize others, presenting them as balanced overviews. The same system can help users register to vote, find polling locations, and remember deadlines. Helping with logistics builds trust; trust makes persuasion easier.
 
-Some experiments pursue this logic openly. In 2023, the TUSK browser launched “GIPPR,” a conservative chatbot built on top of ChatGPT and advertised as an AI that reflects “patriots and independent thinkers’ point of view.”[22] Rather than claiming neutrality, GIPPR promised to answer questions from an explicitly right-wing frame, illustrating how fine-tuned assistants can collapse the distance between a partisan media outlet and a seemingly personal conversation.
+Some experiments pursue this logic openly. In 2023, the TUSK browser launched “GIPPR,” a conservative chatbot built on top of ChatGPT and advertised as an AI that reflects “patriots and independent thinkers’ point of view.”[25] Rather than claiming neutrality, GIPPR promised to answer questions from an explicitly right-wing frame, illustrating how fine-tuned assistants can collapse the distance between a partisan media outlet and a seemingly personal conversation.
 
 As generative models become more capable of maintaining long-term context, these bots can also remember a user’s past questions and positions. This allows them to fine-tune arguments over time, responding to objections, updating talking points, and gradually nudging the user toward a preferred stance. The distinction between “information service” and “campaign surrogate” becomes blurred.
 
 **Scaling and normalizing influence operations.**  
 The most significant change brought by generative AI is not the invention of novel tactics, but the reduction of cost and friction. Actors who previously lacked the resources to run sophisticated propaganda campaigns can now generate high-quality content, tailored to audiences, and adapt it quickly. States, firms, and political organizations that already operate at scale can add generative models to their existing pipelines, integrating them into operations that span social media, messaging apps, and traditional outlets.
 
-Researchers have already warned that AI-driven propaganda could saturate information environments, making it harder for citizens and platforms to distinguish authentic speech from orchestrated campaigns.[20][14][21] Some tools will be tuned to amplify particular narratives; others will be tuned to detect and dampen manipulation. The result is not a simple victory for one side or another, but an arms race of influence architectures that can operate continuously and invisibly. When generative AI is embedded inside search tools, chat interfaces, and virtual assistants, it can channel user queries into narratives that reflect the goals of those who own and configure the systems.
+Researchers have already warned that AI-driven propaganda could saturate information environments, making it harder for citizens and platforms to distinguish authentic speech from orchestrated campaigns.[23][26][24] Some tools will be tuned to amplify particular narratives; others will be tuned to detect and dampen manipulation. The result is not a simple victory for one side or another, but an arms race of influence architectures that can operate continuously and invisibly. When generative AI is embedded inside search tools, chat interfaces, and virtual assistants, it can channel user queries into narratives that reflect the goals of those who own and configure the systems.
 
-Bias concerns have surfaced even in mainstream assistants that are not marketed as political tools at all. In 2024, widely shared videos showed Amazon’s Alexa offering detailed reasons to vote for Kamala Harris while refusing to list reasons to vote for Donald Trump, instead responding that it could not help with that request.[23] Internal reporting later indicated that the asymmetry was linked to a new AI-powered information module rather than an explicit editorial choice, and Amazon moved quickly to change the behavior.[23] The controversy nonetheless showed how small configuration changes in a large-scale assistant can manifest as apparently partisan advice.
+Bias concerns have surfaced even in mainstream assistants that are not marketed as political tools at all. In 2024, widely shared videos showed Amazon’s Alexa offering detailed reasons to vote for Kamala Harris while refusing to list reasons to vote for Donald Trump, instead responding that it could not help with that request.[27] Internal reporting later indicated that the asymmetry was linked to a new AI-powered information module rather than an explicit editorial choice, and Amazon moved quickly to change the behavior.[27] The controversy nonetheless showed how small configuration changes in a large-scale assistant can manifest as apparently partisan advice.
 
-Systematic studies of large language models suggest that such skew is not always intentional, but it is structurally embedded.[24] Surveys of ChatGPT and similar systems using standard political-orientation batteries find that, even after attempts at debiasing, models tend to cluster around particular ideological profiles and to treat some positions as more “reasonable” than others.[24] Once these systems are deployed as conversational advisors or research aids, their latent orientations become part of the informational environment that citizens rely on to form judgments.
+Systematic studies of large language models suggest that such skew is not always intentional, but it is structurally embedded.[28] Surveys of ChatGPT and similar systems using standard political-orientation batteries find that, even after attempts at debiasing, models tend to cluster around particular ideological profiles and to treat some positions as more “reasonable” than others.[28] Once these systems are deployed as conversational advisors or research aids, their latent orientations become part of the informational environment that citizens rely on to form judgments.
 
 Taken together, these deployments show that generative AI is no longer an experimental add-on but part of the routine infrastructure of persuasion. In what follows, the discussion turns from these organized campaigns and operations to the everyday routines of search, work, and self-management where people encounter the same influence architecture as ordinary help.
-
 
 ## 4. Everyday Life Inside the Influence Architecture
 
@@ -232,7 +233,6 @@ At this level, there is no clear boundary between “persuasion” and “assist
 
 As people grow accustomed to working inside this arrangement, they may come to see the system’s way of structuring problems as simply the way things are. Deviating from its suggestions can feel risky or inefficient. Over time, what changes is not just what people think, but **how they think**: the default categories they reach for, the kinds of reasons that feel satisfying, the futures that feel realistic. Everyday reasoning takes shape inside environments that quietly co-author one’s patterns of judgment.
 
-
 ## 5. Conclusion — From Messages to Probability Fields
 
 Over the last century, the machinery of persuasion has shifted from mass broadcast to personalized feeds and now to generative systems that help people think through problems. Early critics of mass media worried about who controlled the front page, the newsroom, and the airwaves.[1][2] The platform era turned that concern toward ranking algorithms and engagement metrics. With generative AI, the focus must widen again: from what people are shown to **how their questions are interpreted, structured, and answered** in the first place.
@@ -248,32 +248,136 @@ The question that haunted earlier media systems—**who gets to shape what peopl
 None of this means that users are passive or that outcomes are predetermined. People resist, reinterpret, and repurpose tools in ways that designers cannot fully script. But as generative systems become routine companions in work and life, **cognitive sovereignty**—the ability to shape one’s own patterns of attention, interpretation, and judgment—will depend in part on how these infrastructures are built and controlled. Preserving that sovereignty is not a luxury. It is part of what it will mean to think freely at all.
 
 
+
 #korovamode
 
 
+---
+
+## Appendix A — Glossary
+
+**Machinery of persuasion** — Machinery of persuasion is the institutional and technical apparatus used to shape beliefs, preferences, and behavior at scale—media channels, incentives, distribution systems, and messaging techniques. Generative AI extends that apparatus by participating upstream in how questions are framed and how interpretations and responses are composed.
+
+**Influence architecture** — Influence architecture is built from three layers that determine how generative systems can steer cognition: the **data layer** (what the model internalizes), the **interface layer** (what is exposed and how), and the **intimacy layer** (how reliance becomes habitual). The stack matters because influence can be introduced at any layer and compounded across them.
+
+**Data layer** — Data layer is the layer that shapes the model’s learned associations and default continuations through training and fine-tuning. It sets the internal terrain of what is easy to say, what is hard to say, and what rarely appears at all.
+
+**Interface layer** — Interface layer is the part that selects, constrains, and voices the model in practice—prompting scaffolds, retrieval pipelines, safety policies, ranking/selection, and presentation (tone, persona, formatting). It determines which regions of the learned space become accessible and which remain effectively hidden.
+
+**Intimacy layer** — Intimacy layer emerges when repeated use turns the system into a habitual interlocutor (assistant, tutor, companion, coworker). Over time, reliance makes the system’s framing feel like the natural starting point for thought, increasing the cost of independent re-framing.
+
+**Probability field** — Probability field is a property of the model: a learned landscape of statistical plausibility that governs which continuations, explanations, or recommendations come easily in a given context. High-frequency associations become smooth paths; rare or excluded associations become harder to reach.
+
+**Cognitive steering** — Cognitive steering shifts the trajectory of thought by supplying framings, distinctions, and options as ready-made continuations. The effect targets salience and comparison—what feels relevant, what feels reasonable, and what feels worth considering.
+
+**Narrative embedding** — Narrative embedding is observable as repeated framings becoming the implicit story through which events are interpreted. As the embedded story stabilizes, some explanations feel coherent by default while alternatives become harder to formulate or take seriously.
+
+**Cognitive offloading** — Cognitive offloading = the transfer of mental work (summarizing, categorizing, drafting, deciding) from the user to the system. Offloading changes judgment by standardizing the dimensions of comparison and by making the system’s categories feel like the natural structure of the problem.
+
+**Algorithmic mirroring** — Algorithmic mirroring is what happens when a system reflects a user’s language, values, and affect back to them in a stabilized, socially legible form. The mirror can reinforce identity narratives by making them feel articulated, consistent, and confirmed.
+
+**Cognitive sovereignty** — Cognitive sovereignty is the constraint that attention, interpretation, and judgment remain governed by the person rather than inherited from external defaults. The concern is not only persuasion outcomes, but the conditions under which independent judgment is formed.
+
+**Persona** — Persona is a consistent conversational role presented by the system (e.g., helpful, empathetic, authoritative). Persona matters because it modulates trust and compliance: it changes how suggestions land and which options feel safe, normal, or responsible.
+
+**Alignment** — Alignment is the system property that channels outputs toward specific objectives and away from disallowed regions, using constraints and training interventions (policies, refusal behavior, reinforcement-based tuning). In practice, alignment functions as an interface-layer gate on which arguments, tones, and interpretations can appear.
+
+**Retrieval-Augmented Generation (RAG)** — Retrieval-Augmented Generation (RAG) is built from two steps: retrieving external documents and generating a response conditioned on them. RAG can improve grounding, but it also introduces additional selection points—what gets retrieved, what gets emphasized, and what framing accompanies the evidence.
+
+**Generative Engine Optimization (GEO)** — Generative engine optimization (GEO) is the practice of shaping how content, sources, and framings are surfaced in AI-generated answers rather than merely ranked in conventional search. In this essay’s terms, GEO is a data-layer and interface-layer strategy because it targets what models can learn from and what downstream systems are likely to retrieve.
+
+**Data-layer seeding** — Data-layer seeding is the deliberate shaping of the public and semi-public text environment that models train on, and that retrieval systems draw from, so that particular interpretations become statistically easy for generative systems to reproduce while alternatives become rarer, thinner, or harder to access.
+
+**Embeddings** — Embeddings are vector representations used to measure semantic similarity for retrieval and ranking. In practice, embedding-based retrieval shapes which sources appear and which supporting frames are available at the moment of response.
+
+**Guardrails** — Guardrails are the constraints that bound what the system will produce—refusals, content filters, softened phrasing, and enforced re-framing. Guardrails can reduce certain harms while also shaping which kinds of arguments, tones, and interpretations remain expressible.
+
+## Appendix B — FAQ
+
+1. **Is this just propaganda or marketing with new tools?**  
+   Propaganda and marketing are recognizable forms of persuasion, but generative systems add a distinct capability: participation in the formation of a user’s questions and interpretations. That shifts persuasion from message delivery toward cognitive guidance—often embedded in ordinary assistance.
+
+2. **What is new compared to social media recommendation systems?**  
+   Recommendation systems prioritize distribution: which messages a person sees. Generative systems extend the influence surface by helping compose and structure responses, thereby affecting not only exposure but also the user’s internal framing and articulation.
+
+3. **Does persuasion here require deception or malicious intent?**  
+   No. The described mechanisms can operate through convenience, tone, and defaults rather than explicit falsehood. Persuasion can occur through selection, emphasis, and framing even when the system is “trying to help.”
+
+4. **Is “cognitive steering” the same as manipulation?**  
+   Cognitive steering describes a functional effect—shaping the path of thought—without assuming a specific moral category. Manipulation is one possible interpretation when steering is covert, asymmetric, or contrary to a user’s interests, but steering can also occur through neutral-seeming scaffolding.
+
+5. **Where do hallucinations fit: error or influence?**  
+   Hallucination is a reliability problem, but it also matters as influence because confidently stated errors can become part of a user’s narrative embedding. The effect is less about a single false claim than about how repeated plausible errors can reshape perceived reality.
+
+6. **Is the main driver the model’s “beliefs,” or the surrounding product layer?**  
+   The framework separates what the model can produce (data layer) from what users encounter (interface layer). In many cases, the interface—retrieval selection, ranking, policy constraints, and persona—determines which framings become habitual.
+
+7. **Why describe this as an “intimacy layer”?**  
+   The term points to the social form of the interaction: ongoing conversation, patience, responsiveness, and personalization. As the system becomes a default interlocutor, its frames can become the user’s starting assumptions.
+
+8. **How does personalization change the persuasion problem?**  
+   Personalization can make influence more effective by matching tone, vocabulary, and emphasis to an individual. That can reduce perceived friction and increase acceptance of a frame even when the underlying content is similar.
+
+9. **What would count as evidence that these effects are real (or limited)?**  
+   Evidence could include longitudinal shifts in how users describe problems, how they categorize options, and which frames they treat as salient after repeated use. Limits would show up where users consistently resist, override, or diversify frames rather than converging on the system’s defaults.
+
+10. **Are these dynamics specific to politics, or do they apply to everyday life?**  
+   The dynamics are general because the mechanisms arise from ordinary assistance: summarizing, drafting, advising, and interpreting. Political persuasion is one visible deployment context, but everyday use can reshape cognition through the same architecture.
+
 ## Endnotes
 
-1. Walter Lippmann, *Public Opinion* (New York: Harcourt, Brace and Company, 1922).
-2. Edward S. Herman and Noam Chomsky, *Manufacturing Consent: The Political Economy of the Mass Media* (New York: Pantheon Books, 1988).
-3. Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell, “On the dangers of stochastic parrots: Can language models be too big? 🦜,” in *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’21)* (New York: Association for Computing Machinery, 2021).
-4. Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence* (New Haven: Yale University Press, 2021).
-5. Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism* (New York: New York University Press, 2018); Ruha Benjamin, *Race After Technology: Abolitionist Tools for the New Jim Code* (Cambridge: Polity, 2019).
-6. Nicholas Carlini, Matthew Jagielski, Christopher A. Choquette-Choo, Daniel Paleka, Will Pearce, Hyrum Anderson, Andreas Terzis, Kurt Thomas, and Florian Tramèr, “Poisoning web-scale training datasets is practical,” arXiv preprint arXiv:2302.10149 (2023); see also OWASP, “LLM04:2025 Data and Model Poisoning,” in *OWASP Top 10 for Large Language Model Applications* (OWASP GenAI Security Project, 2025).
-7. Long Ouyang et al., “Training language models to follow instructions with human feedback,” arXiv preprint arXiv:2203.02155 (2022); see also OpenAI, “Aligning language models to follow instructions,” OpenAI Research, January 27, 2022.
-8. OpenAI, “GPT-4 System Card,” OpenAI, 2023; Anthropic, “Claude 3 System Card,” Anthropic, 2024.
-9. Jamie Bernardi, “Friends for sale: the rise and risks of AI companions,” Ada Lovelace Institute blog, 23 January 2025, https://www.adalovelaceinstitute.org/blog/ai-companions/.
-10. Shoshana Zuboff, *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power* (New York: PublicAffairs, 2019).
-11. Samuel C. Woolley and Philip N. Howard, eds., *Computational Propaganda: Political Parties, Politicians, and Political Manipulation on Social Media* (Oxford: Oxford University Press, 2018).
-12. Samantha Bradshaw and Philip N. Howard, *The Global Disinformation Disorder: 2019 Global Inventory of Organised Social Media Manipulation*, Working Paper 2019.2 (Oxford: Project on Computational Propaganda, Oxford Internet Institute, 2019).
-13. Josh A. Goldstein et al., “How persuasive is AI-generated propaganda?” *PNAS Nexus* 3, no. 2 (February 2024): pgae034.
-14. S. C. Matz et al., “The potential of generative AI for personalized persuasion at scale,” *Scientific Reports* 14 (2024): 4692.
-15. Francesco Salvi et al., “On the conversational persuasiveness of large language models: a randomized controlled trial,” preprint, arXiv:2403.14380 (2024).
-16. NewsGuard, “A well-funded Moscow-based global ‘news’ network has infected Western artificial intelligence tools worldwide with Russian propaganda,” Reality Check special report, 6 March 2025; see also Alliance for Securing Democracy, German Marshall Fund of the United States, “Russia exploits AI training data to spread propaganda via chatbots,” policy brief, 2025.
-17. Bernard Marr, “The future of banking: Morgan Stanley and the rise of AI-driven financial advice,” *Forbes*, April 16, 2024.
-18. Sal Khan, “Harnessing GPT-4 so that all students benefit: A nonprofit approach for equal access,” Khan Academy blog, March 14, 2023.
-19. Expedia Group, “ChatGPT Wrote This Press Release—No, It Didn’t, But It Can Now Assist With Travel Planning in the Expedia App,” press release, April 4, 2023.
-20. eBay Inc., “eBay Launches Seller Tools to Save Time, Boost Profits, and Build Trust,” press release, August 12, 2025; Ina Steiner, “eBay Makes Revolutionary Change to Feedback,” *EcommerceBytes*, August 12, 2025.
-21. Devin Coldewey, “That Was Fast! Microsoft Slips Ads into AI-Powered Bing Chat,” *TechCrunch*, March 29, 2023.
-22. Breck Dumas, “OpenAI Forces Shutdown of Conservative ChatGPT-Powered AI Bot, Creator Claims,” *Fox Business*, June 7, 2023.
-23. Caroline O’Donovan, “Amazon’s Alexa favored Harris over Trump after AI upgrade,” *The Washington Post*, September 5, 2024.
-24. Sasuke Fujimoto and Kazuhiro Takemoto, “Revisiting the political biases of ChatGPT,” *Frontiers in Artificial Intelligence* 6 (2023): 1232003.
+[1] Walter Lippmann, *Public Opinion* (New York: Harcourt, Brace and Company, 1922).
+
+[2] Edward S. Herman and Noam Chomsky, *Manufacturing Consent: The Political Economy of the Mass Media* (New York: Pantheon Books, 1988).
+
+[3] Michael Golebiewski and danah boyd, “Data Voids: Where Missing Data Can Easily Be Exploited,” Data & Society Research Institute, 2018.
+
+[4] Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell, “On the dangers of stochastic parrots: Can language models be too big? 🦜,” in *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’21)* (New York: Association for Computing Machinery, 2021).
+
+[5] Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence* (New Haven: Yale University Press, 2021).
+
+[6] Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism* (New York: New York University Press, 2018); Ruha Benjamin, *Race After Technology: Abolitionist Tools for the New Jim Code* (Cambridge: Polity, 2019).
+
+[7] Jesse Dodge, Maarten Sap, Ana Marasović, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Margaret Mitchell, and Matt Gardner, “Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus,” arXiv preprint arXiv:2104.08758 (2021).
+
+[8] Nicholas Carlini, Matthew Jagielski, Christopher A. Choquette-Choo, Daniel Paleka, Will Pearce, Hyrum Anderson, Andreas Terzis, Kurt Thomas, and Florian Tramèr, “Poisoning web-scale training datasets is practical,” arXiv preprint arXiv:2302.10149 (2023); see also OWASP, “LLM04:2025 Data and Model Poisoning,” in *OWASP Top 10 for Large Language Model Applications* (OWASP GenAI Security Project, 2025).
+
+[9] Anthropic, “A small number of samples can poison LLMs of any size,” Anthropic Research, October 9, 2025.
+
+[10] Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, and Ameet Deshpande, “GEO: Generative Engine Optimization,” arXiv preprint arXiv:2311.09735 (2023).
+
+[11] Long Ouyang et al., “Training language models to follow instructions with human feedback,” arXiv preprint arXiv:2203.02155 (2022); see also OpenAI, “Aligning language models to follow instructions,” OpenAI Research, January 27, 2022.
+
+[12] OpenAI, “GPT-4 System Card,” OpenAI, 2023; Anthropic, “Claude 3 System Card,” Anthropic, 2024.
+
+[13] NewsGuard, “A well-funded Moscow-based global ‘news’ network has infected Western artificial intelligence tools worldwide with Russian propaganda,” Reality Check special report, 6 March 2025; see also Alliance for Securing Democracy, German Marshall Fund of the United States, “Russia exploits AI training data to spread propaganda via chatbots,” policy brief, 2025.
+
+[14] Jamie Bernardi, “Friends for sale: the rise and risks of AI companions,” Ada Lovelace Institute blog, 23 January 2025, https://www.adalovelaceinstitute.org/blog/ai-companions/.
+
+[15] Shoshana Zuboff, *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power* (New York: PublicAffairs, 2019).
+
+[16] Bernard Marr, “The future of banking: Morgan Stanley and the rise of AI-driven financial advice,” *Forbes*, April 16, 2024.
+
+[17] Sal Khan, “Harnessing GPT-4 so that all students benefit: A nonprofit approach for equal access,” Khan Academy blog, March 14, 2023.
+
+[18] eBay Inc., “eBay Launches Seller Tools to Save Time, Boost Profits, and Build Trust,” press release, August 12, 2025; Ina Steiner, “eBay Makes Revolutionary Change to Feedback,” *EcommerceBytes*, August 12, 2025.
+
+[19] Expedia Group, “ChatGPT Wrote This Press Release—No, It Didn’t, But It Can Now Assist With Travel Planning in the Expedia App,” press release, April 4, 2023.
+
+[20] Devin Coldewey, “That Was Fast! Microsoft Slips Ads into AI-Powered Bing Chat,” *TechCrunch*, March 29, 2023.
+
+[21] Samuel C. Woolley and Philip N. Howard, eds., *Computational Propaganda: Political Parties, Politicians, and Political Manipulation on Social Media* (Oxford: Oxford University Press, 2018).
+
+[22] Samantha Bradshaw and Philip N. Howard, *The Global Disinformation Disorder: 2019 Global Inventory of Organised Social Media Manipulation*, Working Paper 2019.2 (Oxford: Project on Computational Propaganda, Oxford Internet Institute, 2019).
+
+[23] Josh A. Goldstein et al., “How persuasive is AI-generated propaganda?” *PNAS Nexus* 3, no. 2 (February 2024): pgae034.
+
+[24] Francesco Salvi et al., “On the conversational persuasiveness of large language models: a randomized controlled trial,” preprint, arXiv:2403.14380 (2024).
+
+[25] Breck Dumas, “OpenAI Forces Shutdown of Conservative ChatGPT-Powered AI Bot, Creator Claims,” *Fox Business*, June 7, 2023.
+
+[26] S. C. Matz et al., “The potential of generative AI for personalized persuasion at scale,” *Scientific Reports* 14 (2024): 4692.
+
+[27] Caroline O’Donovan, “Amazon’s Alexa favored Harris over Trump after AI upgrade,” *The Washington Post*, September 5, 2024.
+
+[28] Sasuke Fujimoto and Kazuhiro Takemoto, “Revisiting the political biases of ChatGPT,” *Frontiers in Artificial Intelligence* 6 (2023): 1232003.
