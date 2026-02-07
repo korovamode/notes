@@ -28,6 +28,10 @@ A curated collection of essays exploring AI, culture, power, meaning, and the ev
 
 ## 📰 Articles
 
+ **Ads in AI Assistants: A Short FAQ**  
+Repo: [Ads_in_AI_Short_FAQ_korovamode_2026_02_07.md][https://github.com/korovamode/publication/blob/main/works/Ads_in_AI_Short_FAQ_korovamode_2026_02_07.md]  
+SubStack: [https://korova.substack.com/publish/posts/detail/187186545/share-center][https://korova.substack.com/publish/posts/detail/187186545/share-center]  
+
 📣 **Behind the Answer: How Branding Gets Seeded into GenAI Responses**  
 Repo: [Behind_the_Answer_by_Korovamode_2026_01_31.md](https://github.com/korovamode/publication/blob/main/works/Behind_the_Answer_by_Korovamode_2026_01_31.md)  
 SubStack: [https://korova.substack.com/p/behind-the-answer](https://korova.substack.com/p/behind-the-answer)  
