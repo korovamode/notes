@@ -4,33 +4,26 @@ A curated collection of essays exploring AI, culture, power, meaning, and the ev
 
 ## 🔗 Official Links
 
-**Substack**  
-[https://korovamode.substack.com](https://korovamode.substack.com)
+**Substack** [https://korovamode.substack.com](https://korovamode.substack.com)
 
-**PhilPapers**  
-[https://philpeople.org/profiles/korovamode-k](https://philpeople.org/profiles/korovamode-k)
+**PhilPapers** [https://philpeople.org/profiles/korovamode-k](https://philpeople.org/profiles/korovamode-k)
 
-**Zenodo**  
-[https://zenodo.org/search?q=korovamode&sort=newest](https://zenodo.org/search?q=korovamode&sort=newest)
+**Zenodo** [https://zenodo.org/search?q=korovamode&sort=newest](https://zenodo.org/search?q=korovamode&sort=newest)
 
-**ORCiD**  
-[https://orcid.org/0009-0004-1397-6608](https://orcid.org/0009-0004-1397-6608)
+**ORCiD** [https://orcid.org/0009-0004-1397-6608](https://orcid.org/0009-0004-1397-6608)
 
-**SSRN**  
-[https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9600252](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9600252)
+**SSRN** [https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9600252](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9600252)
 
-**LinkedIn**  
-[https://www.linkedin.com/in/korova-mode-879255397/](https://www.linkedin.com/in/korova-mode-879255397/)
+**LinkedIn** [https://www.linkedin.com/in/korova-mode-879255397/](https://www.linkedin.com/in/korova-mode-879255397/)
 
-**Medium (français)**  
-[https://medium.com/@korovamode](https://medium.com/@korovamode)
+**Medium (français)** [https://medium.com/@korovamode](https://medium.com/@korovamode)
 
 
 ## 📰 Articles
 
- **Ads in AI Assistants: A Short FAQ**  
-Repo: [Ads_in_AI_Short_FAQ_korovamode_2026_02_07.md][https://github.com/korovamode/publication/blob/main/works/Ads_in_AI_Short_FAQ_korovamode_2026_02_07.md]  
-SubStack: [https://korova.substack.com/publish/posts/detail/187186545/share-center][https://korova.substack.com/publish/posts/detail/187186545/share-center]  
+🏷️ **Ads in AI Assistants: A Short FAQ**  
+Repo: [Ads_in_AI_Short_FAQ_korovamode_2026_02_07.md](https://github.com/korovamode/publication/blob/main/works/Ads_in_AI_Short_FAQ_korovamode_2026_02_07.md)  
+SubStack: [https://korova.substack.com/publish/posts/detail/187186545/share-center](https://korova.substack.com/publish/posts/detail/187186545/share-center)  
 
 📣 **Behind the Answer: How Branding Gets Seeded into GenAI Responses**  
 Repo: [Behind_the_Answer_by_Korovamode_2026_01_31.md](https://github.com/korovamode/publication/blob/main/works/Behind_the_Answer_by_Korovamode_2026_01_31.md)  
