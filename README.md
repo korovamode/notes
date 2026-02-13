@@ -40,6 +40,11 @@ SubStack: [https://korova.substack.com/p/ai-assistants-and-the-drift-into](https
 
 ## 📄 Papers
 
+©️ **Intellectual Property and the Architecture of Exclusion**  
+*Constructed Scarcity in the Information Age*  
+Repo: [Intellectual_Property_by_Korovamode_2026_02_13.md](https://github.com/korovamode/publication/blob/main/works/Intellectual_Property_by_Korovamode_2026_02_13.md)  
+PhilPapers: [https://philpapers.org/rec/KIPAUE](https://philpapers.org/rec/KIPAUE) DOI: [10.5281/zenodo.18628253](https://doi.org/10.5281/zenodo.18628253)  
+
 ⚠️ **The Coming Unrest**  
 *Automation, Mass Unemployment, and the Breakdown of Stability*  
 Repo: [The_Coming_Unrest_by_Korovamode_2026_01_18_revised.md](https://github.com/korovamode/publication/blob/main/works/The_Coming_Unrest_by_Korovamode_2026_01_18_revised.md)  
